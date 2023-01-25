@@ -1,10 +1,10 @@
 # shadowrocket-rules
 
 小火箭规则，shadowrocket rules，全面的直链（DIRECT）、代理（PROXY）、屏蔽（REJECT）列表。欢迎 PR，共同完善。
-- 更新时间：2023-01-25 21:07:13
-- DIRECT规则数：66176，update +0
-- PROXY 规则数：35086，update +0
-- REJECT规则数：55975，update +0
+- 更新时间：2023-01-25 21:17:20
+- DIRECT规则数：66172，update +0
+- PROXY 规则数：35082，update +0
+- REJECT规则数：55971，update +0
 
 ## 本规则具有以下特点：
 - 数据全面，直链（DIRECT）列表6万条+、代理（PROXY）列表3万条+、屏蔽（REJECT）列表5万条+；
