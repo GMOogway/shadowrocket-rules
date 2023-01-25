@@ -1,10 +1,10 @@
 # shadowrocket-rules
 
 小火箭规则，shadowrocket rules，全面的直链（DIRECT）、代理（PROXY）、屏蔽（REJECT）列表。欢迎 PR，共同完善。
-- 更新时间：2023-01-25 21:40:28
-- DIRECT规则数：66172，update +0
-- PROXY 规则数：35083，update +1
-- REJECT规则数：55971，update +0
+- 最后更新时间：2023-01-26 06:38:29
+- DIRECT规则数：66164，update -8
+- PROXY 规则数：35083，update +0
+- REJECT规则数：56006，update +35
 
 ## 本规则具有以下特点：
 - 数据全面，直链（DIRECT）列表6万条+、代理（PROXY）列表3万条+、屏蔽（REJECT）列表5万条+；
@@ -19,7 +19,7 @@
 - **直链（DIRECT）规则**：
   - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module)
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module)
-- **代理（PROXY）列表**：
+- **代理（PROXY）规则**：
   - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module)
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module)
 - **屏蔽（REJECT）规则**：
@@ -31,6 +31,7 @@
 打开小火箭 -> 配置 -> 模块，右上角添加。请注意，此规则列表为[Rule]部分，会自动整合至你当前配置中。
 - 如果使用白名单模式，加载 sr_direct_list.module ，最后 FINAL,PROXY 即可；
 - 如果使用黑名单模式，加载 sr_proxy_list.module ，最后 FINAL,DIRECT 即可；
+- 如果你是想走回国代理，加载 sr_direct_list.module ，最后 FINAL,DIRECT 即可；
 - 在上面的基础上，如果想去广告，加载 sr_reject_list.module 即可。
 
 ## 常见问题
