@@ -22,4 +22,11 @@ ip-cidr:18.194.0.0/15
 ip-cidr:34.224.0.0/12
 
 #custom
-test.local
+#domain.com -> DOMAIN-SUFFIX,domain.com,PROXY
+#full:a.domain.com -> DOMAIN,a.domain.com,PROXY
+#ip-cidr:x.x.x.x/xx -> IP-CIDR,x.x.x.x/xx,PROXY
+
+#51cg
+51cg.co
+ccgg8.com
+51cg1.com
