@@ -1,24 +1,36 @@
 # shadowrocket-rules
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则。欢迎 PR，共同完善。
-- 最后更新时间：2023-01-27 12:47:57
-- DIRECT规则数：66085，update +0
+- 最后更新时间：2023-01-28 06:38:31
+- DIRECT规则数：66078，update -7
 - PROXY 规则数：35085，update +0
-- REJECT规则数：56053，update +0
+- REJECT规则数：55996，update -57
 
 ## 帮助文档
 
 - [01.shadowrocket_configure.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/01.shadowrocket_configure.md)，比较全面的介绍了shadowrocket小火箭的配置文件
 - [02.shadowrocket_update_modules.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/02.shadowrocket_update_modules.md)，介绍了如何手动或自动更新shadowrocket小火箭规则模块
 
-## 本规则模块具有以下特点：
+## 数据来源
+
+- https://github.com/felixonmars/dnsmasq-china-list
+- https://github.com/v2fly/domain-list-community
+- https://github.com/gfwlist/gfwlist
+- https://github.com/Loyalsoldier/cn-blocked-domain
+- https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+- https://kb.adguard.com/en/general/adguard-ad-filters#dns-filter
+- https://pgl.yoyo.org/adservers
+- https://someonewhocares.org/hosts
+- https://github.com/crazy-max/WindowsSpyBlocker/tree/master/data/hosts
+
+## 规则特点
 
 - 数据全面，直连（`DIRECT`）列表6万条+、代理（`PROXY`）列表3万条+、屏蔽（`REJECT`）列表5万条+；
 - 代理列表加入`telegram`、`gv`、`gmail`、`whatsapp`地址段；
 - 使用方便，采用小火箭模块形式，能让自己的配置变得非常简洁，使用方便，随时可以进行切换，白名单、黑名单模式都可以适用，还可以自己决定是否要屏蔽广告网站；
 - 每天自动构建，确保最新。
 
-## 规则模块下载
+## 规则下载
 
 - **直链（DIRECT）规则**：
   - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module)
@@ -69,6 +81,6 @@
 
 你的反馈会让此规则变得更加完美。
 
-## 如何贡献代码？
+## 贡献代码？
 
 通常的情况下，对 [factory 目录](https://github.com/GMOogway/shadowrocket-rules/tree/master/factory) 下的 6 个 .txt 文件做对应修改即可，可以对三个规则作添加或删除。
