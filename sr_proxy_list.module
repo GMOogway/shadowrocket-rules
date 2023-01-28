@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:35085 Created:01-28 06:38 Publisher:GMOogway
+#!desc=Rules:35086 Created:01-29 06:38 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -34979,6 +34979,7 @@ DOMAIN,vod-thumb-uk-live.akamaized.net,PROXY
 DOMAIN,vod-thumb-ww-live.akamaized.net,PROXY
 DOMAIN,vs-cmaf-push-uk-live.akamaized.net,PROXY
 DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net,PROXY
+DOMAIN,vs-hls-push-uk-live.akamaized.net,PROXY
 DOMAIN,vs-hls-pushb-uk-live.akamaized.net,PROXY
 DOMAIN,vscode-sync-insiders.trafficmanager.net,PROXY
 DOMAIN,vscode-sync.trafficmanager.net,PROXY

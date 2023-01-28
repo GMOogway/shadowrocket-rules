@@ -1,10 +1,30 @@
-# shadowrocket-rules
+# 🚀 shadowrocket-rules
+
+<p align="center">
+  <a href="https://github.com/GMOogway/shadowrocket-rules/stargazers">
+    <img src="https://img.shields.io/github/stars/GMOogway/shadowrocket-rules?label=Stars&style=social">
+  </a>
+  <a href="https://github.com/GMOogway/shadowrocket-rules/fork">
+    <img src="https://img.shields.io/github/forks/GMOogway/shadowrocket-rules?label=Fork&style=social">
+  </a>
+
+```
+    /\_____/\     💖
+   / ⭐    ⭐ \
+  ( ==  ^  == )   如果觉得有点用
+   )         (   请随手给个小星星
+  (           )    鼓励一下呗💖
+ ( (  )   (  ) )
+(__(__)___(__)__)
+```
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则。欢迎 PR，共同完善。
-- 最后更新时间：2023-01-28 06:38:31
-- DIRECT规则数：66078，update -7
-- PROXY 规则数：35085，update +0
-- REJECT规则数：55996，update -57
+- 最后更新时间：2023-01-29 06:38:33
+- DIRECT规则数：66078，update +0
+- PROXY 规则数：35086，update +1
+- REJECT规则数：56072，update +76
+
+
 
 ## 帮助文档
 
