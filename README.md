@@ -19,10 +19,10 @@
 ```
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则。欢迎 PR，共同完善。
-- 最后更新时间：2023-01-30 06:34:30
-- DIRECT规则数：66078，update +0
-- PROXY 规则数：35086，update +0
-- REJECT规则数：56091，update +19
+- 最后更新时间：2023-01-31 06:34:37
+- DIRECT规则数：66080，update +2
+- PROXY 规则数：35141，update +55
+- REJECT规则数：56125，update +34
 
 
 
@@ -61,6 +61,8 @@
 - **屏蔽（REJECT）规则**：
   - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module)
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module)
+
+注：每类规则提供了二个链接，一个需要代理才能访问，一个可以直接访问，请根据实际情况选择，只是jsdelivr会延迟12小时，但对于几万条的规则来说，没什么影响。
 
 ## 使用方法
 
