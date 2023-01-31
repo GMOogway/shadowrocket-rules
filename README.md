@@ -7,6 +7,7 @@
   <a href="https://github.com/GMOogway/shadowrocket-rules/fork">
     <img src="https://img.shields.io/github/forks/GMOogway/shadowrocket-rules?label=Fork&style=social">
   </a>
+</p>
 
 ```
     /\_____/\   💖
@@ -18,18 +19,38 @@
 (__(__)___(__)__)
 ```
 
-小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则。欢迎 PR，共同完善。
-- 最后更新时间：2023-01-31 06:34:37
-- DIRECT规则数：66080，update +2
-- PROXY 规则数：35141，update +55
-- REJECT规则数：56125，update +34
+小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则，数据最全面，自动构建，每日更新。欢迎 PR，共同完善。
+- 最后更新时间：2023-02-01 06:34:46
+- DIRECT规则数：66080，update +0
+- PROXY 规则数：35141，update +0
+- REJECT规则数：56222，update +97
 
+## 使用方法
 
+- 复制 [小火箭极简配置](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/docs/03.shadowsocks_tiny.conf) 链接，在 `小火箭 -> 配置 -> 远程文件` 中添加，不到20行，直接复制内容新建一个配置也行
+- `小火箭 -> 配置 -> 模块`，右上角，添加三个规则（[模块化规则链接](#规则下载)）
+- 完成，精准分流，愉快上网
+- 想要自动更新规则，请参考 [02.shadowrocket_update_modules.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/02.shadowrocket_update_modules.md)
+>高级选手请任意搭配使用。如果使用白名单模式，加载 `sr_direct_list.module` ，最后 `FINAL,PROXY` 即可；如果使用黑名单模式，加载 `sr_proxy_list.module` ，最后 `FINAL,DIRECT` 即可；在上面的基础上，如果想去广告，加载 `sr_reject_list.module` 即可。
+
+## 规则下载
+
+- **直链（DIRECT）规则**：
+  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module)
+  - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module)
+- **代理（PROXY）规则**：
+  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module)
+  - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module)
+- **屏蔽（REJECT）规则**：
+  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module)
+  - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module)
+>每类规则提供了二个链接，一个需要代理才能访问，一个可以直接访问，请根据实际情况选择，只是jsdelivr会延迟12小时，但对于几万条的规则来说，没什么影响。
 
 ## 帮助文档
 
 - [01.shadowrocket_configure.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/01.shadowrocket_configure.md)，比较全面的介绍了shadowrocket小火箭的配置文件
 - [02.shadowrocket_update_modules.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/02.shadowrocket_update_modules.md)，介绍了如何手动或自动更新shadowrocket小火箭规则模块
+- [03.shadowsocks_tiny.conf](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/docs/03.shadowsocks_tiny.conf)，一个小火箭的极简配置，不到20行，容易修改编辑吧？再配上本项提供的规则，即可精准分流、愉快上网
 
 ## 数据来源
 
@@ -49,27 +70,6 @@
 - 代理列表加入`telegram`、`gv`、`gmail`、`whatsapp`地址段；
 - 使用方便，采用小火箭模块形式，能让自己的配置变得非常简洁，使用方便，随时可以进行切换，白名单、黑名单模式都可以适用，还可以自己决定是否要屏蔽广告网站；
 - 每天自动构建，确保最新。
-
-## 规则下载
-
-- **直链（DIRECT）规则**：
-  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module)
-  - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module)
-- **代理（PROXY）规则**：
-  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module)
-  - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module)
-- **屏蔽（REJECT）规则**：
-  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module)
-  - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module)
-
-注：每类规则提供了二个链接，一个需要代理才能访问，一个可以直接访问，请根据实际情况选择，只是jsdelivr会延迟12小时，但对于几万条的规则来说，没什么影响。
-
-## 使用方法
-
-打开小火箭 -> 配置 -> 模块，右上角添加。请注意，此规则列表为`[Rule]`部分，会自动整合至你当前配置中。
-- 如果使用白名单模式，加载 `sr_direct_list.module` ，最后 `FINAL,PROXY` 即可；
-- 如果使用黑名单模式，加载 `sr_proxy_list.module` ，最后 `FINAL,DIRECT` 即可；
-- 在上面的基础上，如果想去广告，加载 `sr_reject_list.module` 即可。
 
 ## 常见问题
 
