@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:35141 Created:02-01 06:34 Publisher:GMOogway
+#!desc=Rules:35156 Created:02-02 06:35 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -6356,6 +6356,7 @@ DOMAIN-SUFFIX,boundhub.com,PROXY
 DOMAIN-SUFFIX,boundless-sky.com,PROXY
 DOMAIN-SUFFIX,bountyhunterporn.com,PROXY
 DOMAIN-SUFFIX,bowenpress.com,PROXY
+DOMAIN-SUFFIX,bowlroll.net,PROXY
 DOMAIN-SUFFIX,bowsersinsidestory.com,PROXY
 DOMAIN-SUFFIX,box.hyds360.com,PROXY
 DOMAIN-SUFFIX,boxcn.net,PROXY
@@ -8161,6 +8162,7 @@ DOMAIN-SUFFIX,collegetransferstudent.com,PROXY
 DOMAIN-SUFFIX,colombianas.webcam,PROXY
 DOMAIN-SUFFIX,colorado-photo.com,PROXY
 DOMAIN-SUFFIX,coloradosprings.com,PROXY
+DOMAIN-SUFFIX,colorfulstage.com,PROXY
 DOMAIN-SUFFIX,colorprotechnology.com,PROXY
 DOMAIN-SUFFIX,comcast,PROXY
 DOMAIN-SUFFIX,comdns.xyz,PROXY
@@ -10235,6 +10237,7 @@ DOMAIN-SUFFIX,edengay.net,PROXY
 DOMAIN-SUFFIX,edenriegel.com,PROXY
 DOMAIN-SUFFIX,edenrules.com,PROXY
 DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net,PROXY
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net,PROXY
 DOMAIN-SUFFIX,edgecastcdn.net,PROXY
 DOMAIN-SUFFIX,edgedatg.com,PROXY
 DOMAIN-SUFFIX,edgefonts.net,PROXY
@@ -18152,6 +18155,7 @@ DOMAIN-SUFFIX,maggiebears.com,PROXY
 DOMAIN-SUFFIX,magic-net.info,PROXY
 DOMAIN-SUFFIX,magic346cn.weebly.com,PROXY
 DOMAIN-SUFFIX,magicalaska-form.weebly.com,PROXY
+DOMAIN-SUFFIX,magicalmirai.com,PROXY
 DOMAIN-SUFFIX,magiccloak.net,PROXY
 DOMAIN-SUFFIX,magiccloud.i234.me,PROXY
 DOMAIN-SUFFIX,magicmovies.com,PROXY
@@ -18790,6 +18794,7 @@ DOMAIN-SUFFIX,mikandi.com,PROXY
 DOMAIN-SUFFIX,mike.cz.cc,PROXY
 DOMAIN-SUFFIX,mikesoltys.com,PROXY
 DOMAIN-SUFFIX,miktex.org,PROXY
+DOMAIN-SUFFIX,mikuexpo.com,PROXY
 DOMAIN-SUFFIX,mil,PROXY
 DOMAIN-SUFFIX,milehighmedia.com,PROXY
 DOMAIN-SUFFIX,milfbundle.com,PROXY
@@ -21828,6 +21833,7 @@ DOMAIN-SUFFIX,physiology.org,PROXY
 DOMAIN-SUFFIX,piaget,PROXY
 DOMAIN-SUFFIX,pianku.me,PROXY
 DOMAIN-SUFFIX,pianopiano.pt,PROXY
+DOMAIN-SUFFIX,piapro.net,PROXY
 DOMAIN-SUFFIX,piavpn.com,PROXY
 DOMAIN-SUFFIX,pic5.pixclub.net,PROXY
 DOMAIN-SUFFIX,picacg2022.com,PROXY
@@ -24922,6 +24928,7 @@ DOMAIN-SUFFIX,sneakerskick.com,PROXY
 DOMAIN-SUFFIX,sneakme.net,PROXY
 DOMAIN-SUFFIX,snipurl.com,PROXY
 DOMAIN-SUFFIX,snowlionpub.com,PROXY
+DOMAIN-SUFFIX,snowmiku.com,PROXY
 DOMAIN-SUFFIX,snowpear.com,PROXY
 DOMAIN-SUFFIX,soasta-dswb.com,PROXY
 DOMAIN-SUFFIX,sobees.com,PROXY
@@ -25423,6 +25430,11 @@ DOMAIN-SUFFIX,stealthy.co,PROXY
 DOMAIN-SUFFIX,stealthygeek.com,PROXY
 DOMAIN-SUFFIX,steam-api.com,PROXY
 DOMAIN-SUFFIX,steam-chat.com,PROXY
+DOMAIN-SUFFIX,steam.apac.qtlglb.com,PROXY
+DOMAIN-SUFFIX,steam.cdn.on.net,PROXY
+DOMAIN-SUFFIX,steam.eca.qtlglb.com,PROXY
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com,PROXY
+DOMAIN-SUFFIX,steam.ru.qtlglb.com,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 DOMAIN-SUFFIX,steamcontent.com,PROXY
 DOMAIN-SUFFIX,steamdb.info,PROXY
@@ -34804,7 +34816,6 @@ DOMAIN,beck-online.beck.de,PROXY
 DOMAIN,bingsettingssearch.trafficmanager.net,PROXY
 DOMAIN,blizzard.nefficient.co.kr,PROXY
 DOMAIN,blizzcon-a.akamaihd.net,PROXY
-DOMAIN,blog.youngmoe.com,PROXY
 DOMAIN,blzddist1-a.akamaihd.net,PROXY
 DOMAIN,blzddistkr1-a.akamaihd.net,PROXY
 DOMAIN,blzmedia-a.akamaihd.net,PROXY
@@ -34854,6 +34865,7 @@ DOMAIN,elib.maruzen.co.jp,PROXY
 DOMAIN,espn.api.edge.bamgrid.com,PROXY
 DOMAIN,espn.hb.omtrdc.net,PROXY
 DOMAIN,espndotcom.tt.omtrdc.net,PROXY
+DOMAIN,f3b7q2p3.ssl.hwcdn.net,PROXY
 DOMAIN,fandom.zendesk.com,PROXY
 DOMAIN,faronics.kayako.com,PROXY
 DOMAIN,fbcdn-a.akamaihd.net,PROXY
@@ -35008,6 +35020,9 @@ DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net,PROXY
 DOMAIN,steambroadcast.akamaized.net,PROXY
 DOMAIN,steamcdn-a.akamaihd.net,PROXY
 DOMAIN,steamcommunity-a.akamaihd.net,PROXY
+DOMAIN,steampipe-kr.akamaized.net,PROXY
+DOMAIN,steampipe-partner.akamaized.net,PROXY
+DOMAIN,steampipe.akamaized.net,PROXY
 DOMAIN,steamstore-a.akamaihd.net,PROXY
 DOMAIN,steamusercontent-a.akamaihd.net,PROXY
 DOMAIN,steamuserimages-a.akamaihd.net,PROXY
