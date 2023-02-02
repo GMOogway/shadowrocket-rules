@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:66120 Created:02-02 06:35 Publisher:GMOogway
+#!desc=Rules:66121 Created:02-03 06:35 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-100.com,DIRECT
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -40142,6 +40142,7 @@ DOMAIN-SUFFIX,myoppo.com,DIRECT
 DOMAIN-SUFFIX,myottad.com,DIRECT
 DOMAIN-SUFFIX,myouth.net,DIRECT
 DOMAIN-SUFFIX,myp2pch.net,DIRECT
+DOMAIN-SUFFIX,mypaas.com,DIRECT
 DOMAIN-SUFFIX,mypal.wang,DIRECT
 DOMAIN-SUFFIX,mypcrun.com,DIRECT
 DOMAIN-SUFFIX,mypethome.com,DIRECT
