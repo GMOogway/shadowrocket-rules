@@ -20,10 +20,10 @@
 ```
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则，数据最全面，自动构建，每日更新。欢迎 PR，共同完善。
-- 最后更新时间：2023-02-03 06:35:17
-- DIRECT规则数：66121，update +1
+- 最后更新时间：2023-02-04 06:34:58
+- DIRECT规则数：66078，update -43
 - PROXY 规则数：35156，update +0
-- REJECT规则数：55970，update +62
+- REJECT规则数：56018，update +48
 
 ## 使用方法
 
@@ -50,7 +50,7 @@
 
 - [01.shadowrocket_configure.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/01.shadowrocket_configure.md)，比较全面的介绍了shadowrocket小火箭的配置文件
 - [02.shadowrocket_update_modules.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/02.shadowrocket_update_modules.md)，介绍了如何手动或自动更新shadowrocket小火箭规则模块
-- [03.shadowsocks_tiny.conf](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/docs/03.shadowsocks_tiny.conf)，一个小火箭的极简配置，不到20行，容易修改编辑吧？再配上本项提供的规则，即可精准分流、愉快上网
+- [03.shadowsocks_tiny.conf](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/docs/03.shadowsocks_tiny.conf)，一个小火箭的极简配置，不到20行，容易修改编辑吧？再配上本项目提供的规则，即可精准分流、愉快上网
 
 ## 数据来源
 
