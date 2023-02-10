@@ -20,10 +20,10 @@
 ```
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则，数据最全面，自动构建，每日更新。欢迎 PR，共同完善。
-- 最后更新时间：2023-02-10 06:36:37
+- 最后更新时间：2023-02-11 06:35:56
 - DIRECT规则数：66086，update +0
-- PROXY 规则数：35162，update +6
-- REJECT规则数：55929，update +42
+- PROXY 规则数：35162，update +0
+- REJECT规则数：55929，update +0
 
 ## 使用方法
 
@@ -31,7 +31,10 @@
 - `小火箭 -> 配置 -> 模块`，右上角，添加三个规则（[模块化规则链接](#规则下载)）
 - 完成，精准分流，愉快上网
 - 想要自动更新规则，请参考 [02.shadowrocket_update_modules.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/02.shadowrocket_update_modules.md)
+
 >高级选手请任意搭配使用。如果使用白名单模式，加载 `sr_direct_list.module` ，最后 `FINAL,PROXY` 即可；如果使用黑名单模式，加载 `sr_proxy_list.module` ，最后 `FINAL,DIRECT` 即可；在上面的基础上，如果想去广告，加载 `sr_reject_list.module` 即可。
+
+>关于小火箭模块的优先级问题这儿解释一下，第一：模块中的规则优先于配置中的规则，第二：多个模块，上面的模块优先级比下面的要高，在模块中可以自行调整模块的上下。清楚了以上两点，就可以配出你想要的效果了。
 
 ## 规则下载
 
