@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:66003 Created:02-24 06:36 Publisher:GMOogway
+#!desc=Rules:66004 Created:02-25 06:36 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-100.com,DIRECT
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -40130,6 +40130,7 @@ DOMAIN-SUFFIX,myxypt.com,DIRECT
 DOMAIN-SUFFIX,myyishu.com,DIRECT
 DOMAIN-SUFFIX,myyj.net,DIRECT
 DOMAIN-SUFFIX,myyoudao.com,DIRECT
+DOMAIN-SUFFIX,myypark.com,DIRECT
 DOMAIN-SUFFIX,myyx618.com,DIRECT
 DOMAIN-SUFFIX,myyx915.com,DIRECT
 DOMAIN-SUFFIX,myyzd.com,DIRECT
