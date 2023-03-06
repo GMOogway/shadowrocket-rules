@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:35371 Created:03-06 06:35 Publisher:GMOogway
+#!desc=Rules:35374 Created:03-07 06:37 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -23097,6 +23097,7 @@ DOMAIN-SUFFIX,qiangyou.org,PROXY
 DOMAIN-SUFFIX,qienkuen.org,PROXY
 DOMAIN-SUFFIX,qieyz.com,PROXY
 DOMAIN-SUFFIX,qinav.com,PROXY
+DOMAIN-SUFFIX,qingenporn.net,PROXY
 DOMAIN-SUFFIX,qingpeng.org,PROXY
 DOMAIN-SUFFIX,qingse.one,PROXY
 DOMAIN-SUFFIX,qingyangmovie.be,PROXY
@@ -28805,6 +28806,7 @@ DOMAIN-SUFFIX,vtvan.com,PROXY
 DOMAIN-SUFFIX,vu,PROXY
 DOMAIN-SUFFIX,vudu.com,PROXY
 DOMAIN-SUFFIX,vuku.cc,PROXY
+DOMAIN-SUFFIX,vulgarx.com,PROXY
 DOMAIN-SUFFIX,vultr.com,PROXY
 DOMAIN-SUFFIX,vultryhw.com,PROXY
 DOMAIN-SUFFIX,vultur.com,PROXY
@@ -35274,6 +35276,7 @@ DOMAIN,zeenews-fonts.s3.amazonaws.com,PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?783([a-z][a-z]?)?\.tv.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?8dgo[1-57-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?91porn[0-9]{3}\.me.*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?91p[1-9][0-9]?\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?989[a-z]?\.tv.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?99pp[1-9][0-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?avstar0[1-9]\.(com|me).*$",PROXY
