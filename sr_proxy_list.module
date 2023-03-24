@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:35541 Created:03-24 06:34 Publisher:GMOogway
+#!desc=Rules:35542 Created:03-25 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -9183,6 +9183,7 @@ DOMAIN-SUFFIX,dev-guardianapis.com,PROXY
 DOMAIN-SUFFIX,dev-theguardian.com,PROXY
 DOMAIN-SUFFIX,devcon.org,PROXY
 DOMAIN-SUFFIX,developer-advisor.com,PROXY
+DOMAIN-SUFFIX,developer.allizom.org,PROXY
 DOMAIN-SUFFIX,developerlibrary.com,PROXY
 DOMAIN-SUFFIX,developers.box.net,PROXY
 DOMAIN-SUFFIX,developria.com,PROXY
@@ -35205,6 +35206,7 @@ DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
 DOMAIN,cbsservice.aws.syncbak.com,PROXY
 DOMAIN,cdn.jsdelivr.net,PROXY
 DOMAIN,cdngarenanow-a.akamaihd.net,PROXY
+DOMAIN,chat.openai.com.cdn.cloudflare.net,PROXY
 DOMAIN,chinapower.csis.org,PROXY
 DOMAIN,cisco.evergage.com,PROXY
 DOMAIN,ciscolivehls-i.akamaihd.net,PROXY
@@ -35222,7 +35224,6 @@ DOMAIN,database.asahi.com,PROXY
 DOMAIN,default.exp-tas.com,PROXY
 DOMAIN,deutschewelle.h-cdn.com,PROXY
 DOMAIN,developer.microsoft.com,PROXY
-DOMAIN,developer.mozilla.org,PROXY
 DOMAIN,developers.facebook.com,PROXY
 DOMAIN,dfp6rglgjqszk.cloudfront.net,PROXY
 DOMAIN,dl.begellhouse.com,PROXY
