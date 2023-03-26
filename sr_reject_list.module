@@ -1,6 +1,6 @@
 #!name=reject_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:58578 Created:03-26 06:34 Publisher:GMOogway
+#!desc=Rules:58592 Created:03-27 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-000.store,REJECT
 DOMAIN-SUFFIX,0.code.cotsta.ru,REJECT
@@ -1357,6 +1357,7 @@ DOMAIN-SUFFIX,66668aaa.com,REJECT
 DOMAIN-SUFFIX,66669aaa.com,REJECT
 DOMAIN-SUFFIX,6669667.com,REJECT
 DOMAIN-SUFFIX,666video.asia,REJECT
+DOMAIN-SUFFIX,6686bb.app,REJECT
 DOMAIN-SUFFIX,66885aaa.com,REJECT
 DOMAIN-SUFFIX,66996.top,REJECT
 DOMAIN-SUFFIX,66997.top,REJECT
@@ -6557,6 +6558,7 @@ DOMAIN-SUFFIX,aisastore.club,REJECT
 DOMAIN-SUFFIX,aisdd.xyz,REJECT
 DOMAIN-SUFFIX,aishan.shop,REJECT
 DOMAIN-SUFFIX,aishangcan.com,REJECT
+DOMAIN-SUFFIX,aisnj.cn,REJECT
 DOMAIN-SUFFIX,aissoksu.net,REJECT
 DOMAIN-SUFFIX,aistat.net,REJECT
 DOMAIN-SUFFIX,aistgsgxvsrywhf.com,REJECT
@@ -8237,6 +8239,7 @@ DOMAIN-SUFFIX,apsu.fr,REJECT
 DOMAIN-SUFFIX,aptantasp.site,REJECT
 DOMAIN-SUFFIX,aptimorph.com,REJECT
 DOMAIN-SUFFIX,aptonnerv.buzz,REJECT
+DOMAIN-SUFFIX,aptosdevnet.com,REJECT
 DOMAIN-SUFFIX,apture.com,REJECT
 DOMAIN-SUFFIX,apu.samsungelectronics.com,REJECT
 DOMAIN-SUFFIX,apucdt.com,REJECT
@@ -14757,6 +14760,7 @@ DOMAIN-SUFFIX,colliersads.com,REJECT
 DOMAIN-SUFFIX,collline.fr,REJECT
 DOMAIN-SUFFIX,collserve.com,REJECT
 DOMAIN-SUFFIX,colmoseshelled.com,REJECT
+DOMAIN-SUFFIX,cologger.shopping.naver.com,REJECT
 DOMAIN-SUFFIX,colognenobilityfrost.com,REJECT
 DOMAIN-SUFFIX,cologu.com,REJECT
 DOMAIN-SUFFIX,colombomyeloid.live,REJECT
@@ -20316,6 +20320,7 @@ DOMAIN-SUFFIX,eoopersed.one,REJECT
 DOMAIN-SUFFIX,eooperseducat.xyz,REJECT
 DOMAIN-SUFFIX,eooslfyhziubo.com,REJECT
 DOMAIN-SUFFIX,eopa5tepa.icu,REJECT
+DOMAIN-SUFFIX,eopad.cyou,REJECT
 DOMAIN-SUFFIX,eoqygep.cn,REJECT
 DOMAIN-SUFFIX,eoredi.com,REJECT
 DOMAIN-SUFFIX,eosads.com,REJECT
@@ -21358,6 +21363,7 @@ DOMAIN-SUFFIX,fandelcot.com,REJECT
 DOMAIN-SUFFIX,fandmo.com,REJECT
 DOMAIN-SUFFIX,fandommetrics.com,REJECT
 DOMAIN-SUFFIX,fangbaba.xyz,REJECT
+DOMAIN-SUFFIX,fangbai.online,REJECT
 DOMAIN-SUFFIX,fangfeeling.com,REJECT
 DOMAIN-SUFFIX,fangfeng001.xyz,REJECT
 DOMAIN-SUFFIX,fangfeng002.xyz,REJECT
@@ -25827,6 +25833,7 @@ DOMAIN-SUFFIX,hoanoola.net,REJECT
 DOMAIN-SUFFIX,hoareddepulse.com,REJECT
 DOMAIN-SUFFIX,hoaredsavates.com,REJECT
 DOMAIN-SUFFIX,hoarseairy.com,REJECT
+DOMAIN-SUFFIX,hoaxbasesalad.com,REJECT
 DOMAIN-SUFFIX,hoazinangles.com,REJECT
 DOMAIN-SUFFIX,hobfadbig.com,REJECT
 DOMAIN-SUFFIX,hoboka.com,REJECT
@@ -36053,6 +36060,7 @@ DOMAIN-SUFFIX,npvesnqurlscye.xyz,REJECT
 DOMAIN-SUFFIX,npvos.com,REJECT
 DOMAIN-SUFFIX,nqcacox.cn,REJECT
 DOMAIN-SUFFIX,nqezlls.cn,REJECT
+DOMAIN-SUFFIX,nqfrhd.xyz,REJECT
 DOMAIN-SUFFIX,nqfwx.cn,REJECT
 DOMAIN-SUFFIX,nqhqpq.cn,REJECT
 DOMAIN-SUFFIX,nqn7la7.de,REJECT
@@ -45396,6 +45404,7 @@ DOMAIN-SUFFIX,sickflock.com,REJECT
 DOMAIN-SUFFIX,sickmakes.com,REJECT
 DOMAIN-SUFFIX,sicknessfestivity.com,REJECT
 DOMAIN-SUFFIX,sicksmash.com,REJECT
+DOMAIN-SUFFIX,sicongyyds.com,REJECT
 DOMAIN-SUFFIX,sicsanopsh.com,REJECT
 DOMAIN-SUFFIX,sidanarchy.com,REJECT
 DOMAIN-SUFFIX,sidanarchy.net,REJECT
@@ -52184,6 +52193,7 @@ DOMAIN-SUFFIX,uchkzmzehr.com,REJECT
 DOMAIN-SUFFIX,uchmuk.com,REJECT
 DOMAIN-SUFFIX,uciservice.com,REJECT
 DOMAIN-SUFFIX,uckbrokennailsa.xyz,REJECT
+DOMAIN-SUFFIX,uckmee.xyz,REJECT
 DOMAIN-SUFFIX,uclmad.com,REJECT
 DOMAIN-SUFFIX,uclo.net,REJECT
 DOMAIN-SUFFIX,ucounter.ucoz.net,REJECT
@@ -56585,6 +56595,7 @@ DOMAIN-SUFFIX,xdw9.top,REJECT
 DOMAIN-SUFFIX,xdyjt.com,REJECT
 DOMAIN-SUFFIX,xebadu.com,REJECT
 DOMAIN-SUFFIX,xegluwate.com,REJECT
+DOMAIN-SUFFIX,xeiatmf.cn,REJECT
 DOMAIN-SUFFIX,xeihy.com,REJECT
 DOMAIN-SUFFIX,xeiyt.cyou,REJECT
 DOMAIN-SUFFIX,xektyy.cn,REJECT
@@ -58000,6 +58011,7 @@ DOMAIN-SUFFIX,zczcvx.com,REJECT
 DOMAIN-SUFFIX,zdabnt.live,REJECT
 DOMAIN-SUFFIX,zdads.e-media.com,REJECT
 DOMAIN-SUFFIX,zdajdudqfq.com,REJECT
+DOMAIN-SUFFIX,zdama.xyz,REJECT
 DOMAIN-SUFFIX,zdbb.net,REJECT
 DOMAIN-SUFFIX,zdenochary.com,REJECT
 DOMAIN-SUFFIX,zdhfff.xyz,REJECT
@@ -58143,6 +58155,7 @@ DOMAIN-SUFFIX,zhanglibomgmail.online,REJECT
 DOMAIN-SUFFIX,zhangmingqin.tech,REJECT
 DOMAIN-SUFFIX,zhangshiyuan.com,REJECT
 DOMAIN-SUFFIX,zhangwanwan.online,REJECT
+DOMAIN-SUFFIX,zhangxiaoluo.xyz,REJECT
 DOMAIN-SUFFIX,zhangzhiyang01.cn,REJECT
 DOMAIN-SUFFIX,zhanjiangletian.com,REJECT
 DOMAIN-SUFFIX,zhanlan.asia,REJECT
@@ -58366,6 +58379,7 @@ DOMAIN-SUFFIX,zoute.cyou,REJECT
 DOMAIN-SUFFIX,zoutubephaid.com,REJECT
 DOMAIN-SUFFIX,zouxinyan.xyz,REJECT
 DOMAIN-SUFFIX,zovgdpj.cn,REJECT
+DOMAIN-SUFFIX,zowralr.cn,REJECT
 DOMAIN-SUFFIX,zoxetijy.xyz,REJECT
 DOMAIN-SUFFIX,zozocash.biz,REJECT
 DOMAIN-SUFFIX,zozolilla.com,REJECT
