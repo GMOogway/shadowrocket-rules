@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:34107 Created:04-12 06:34 Publisher:GMOogway
+#!desc=Rules:34110 Created:04-13 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -33753,6 +33753,8 @@ DOMAIN,officecdn-microsoft-com.akamaized.net,PROXY
 DOMAIN,oneocsp.microsoft.com,PROXY
 DOMAIN,ood.opsource.net,PROXY
 DOMAIN,openaiapi-site.azureedge.net,PROXY
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,PROXY
 DOMAIN,opgg-static.akamaized.net,PROXY
 DOMAIN,origin-a.akamaihd.net,PROXY
 DOMAIN,p-events-delivery.akamaized.net,PROXY
@@ -33767,6 +33769,7 @@ DOMAIN,practivate.adobe.ipp,PROXY
 DOMAIN,practivate.adobe.newoa,PROXY
 DOMAIN,practivate.adobe.ntp,PROXY
 DOMAIN,prd-priconne-redive.akamaized.net,PROXY
+DOMAIN,production-openaicom-storage.azureedge.net,PROXY
 DOMAIN,psg-int-centralus.cloudapp.net,PROXY
 DOMAIN,psg-int-eastus.cloudapp.net,PROXY
 DOMAIN,push-apple.com.akadns.net,PROXY
