@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:34110 Created:04-13 06:34 Publisher:GMOogway
+#!desc=Rules:34113 Created:04-14 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -6971,6 +6971,7 @@ DOMAIN-SUFFIX,cato.org,PROXY
 DOMAIN-SUFFIX,catsoncrack.com,PROXY
 DOMAIN-SUFFIX,catswall.net,PROXY
 DOMAIN-SUFFIX,cattt.com,PROXY
+DOMAIN-SUFFIX,cavporn.com,PROXY
 DOMAIN-SUFFIX,caxata.com,PROXY
 DOMAIN-SUFFIX,cba,PROXY
 DOMAIN-SUFFIX,cbart.net,PROXY
@@ -13091,6 +13092,7 @@ DOMAIN-SUFFIX,h090909.com,PROXY
 DOMAIN-SUFFIX,h0930.com,PROXY
 DOMAIN-SUFFIX,h1388.com,PROXY
 DOMAIN-SUFFIX,h1665.com,PROXY
+DOMAIN-SUFFIX,h18ani1.vip,PROXY
 DOMAIN-SUFFIX,h1n1china.org,PROXY
 DOMAIN-SUFFIX,h2.elf168.net,PROXY
 DOMAIN-SUFFIX,h22.elf168.net,PROXY
@@ -34019,6 +34021,7 @@ URL-REGEX,"^https?:\/\/(.*\.)?avstar0[1-9]\.(com|me).*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?banyinjia[0-9]?\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?bilibili3(0[1-9]|1[0-2])\.xyz.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com.*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?cav1(0[2-9]|1[0-9])\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?cgbb([1-9]|1[0-9]|20)\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?cosaa[a-z]\.cyou.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?douyintt[0-9]\.me.*$",PROXY

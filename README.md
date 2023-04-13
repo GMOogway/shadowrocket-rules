@@ -20,10 +20,10 @@
 ```
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则，数据最全面，自动构建，每日更新。欢迎 PR，共同完善。
-- 最后更新时间：2023-04-13 06:34:39
+- 最后更新时间：2023-04-14 06:34:20
 - DIRECT规则数：65489，update +0
-- PROXY 规则数：34110，update +3
-- REJECT规则数：58095，update +48
+- PROXY 规则数：34113，update +3
+- REJECT规则数：58236，update +141
 
 ## 使用方法
 
