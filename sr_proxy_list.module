@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:34156 Created:04-15 06:34 Publisher:GMOogway
+#!desc=Rules:34158 Created:04-16 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -10200,6 +10200,7 @@ DOMAIN-SUFFIX,erni,PROXY
 DOMAIN-SUFFIX,ero-anime.net,PROXY
 DOMAIN-SUFFIX,ero-comic-hunter.net,PROXY
 DOMAIN-SUFFIX,ero-kawa.com,PROXY
+DOMAIN-SUFFIX,ero-labs.cloud,PROXY
 DOMAIN-SUFFIX,ero-labs.com,PROXY
 DOMAIN-SUFFIX,ero-labs.net,PROXY
 DOMAIN-SUFFIX,ero-labs.online,PROXY
@@ -10234,6 +10235,7 @@ DOMAIN-SUFFIX,erolabs.cloud,PROXY
 DOMAIN-SUFFIX,erolabs.com,PROXY
 DOMAIN-SUFFIX,erolabs.game,PROXY
 DOMAIN-SUFFIX,erolabs.net,PROXY
+DOMAIN-SUFFIX,erolabs.online,PROXY
 DOMAIN-SUFFIX,erolord.com,PROXY
 DOMAIN-SUFFIX,eromanga-ace.com,PROXY
 DOMAIN-SUFFIX,eromanga-cafe.com,PROXY
