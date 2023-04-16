@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:34158 Created:04-16 06:34 Publisher:GMOogway
+#!desc=Rules:34159 Created:04-17 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
 DOMAIN-SUFFIX,00006801.com,PROXY
@@ -33913,6 +33913,7 @@ DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net,PROXY
 DOMAIN,steambroadcast.akamaized.net,PROXY
 DOMAIN,steamcdn-a.akamaihd.net,PROXY
 DOMAIN,steamcommunity-a.akamaihd.net,PROXY
+DOMAIN,steammobile.akamaized.net,PROXY
 DOMAIN,steampipe-kr.akamaized.net,PROXY
 DOMAIN,steampipe-partner.akamaized.net,PROXY
 DOMAIN,steampipe.akamaized.net,PROXY
