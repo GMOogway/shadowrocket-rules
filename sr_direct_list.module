@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:65724 Created:04-27 06:34 Publisher:GMOogway
+#!desc=Rules:65726 Created:04-28 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-100.com,DIRECT
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -21728,7 +21728,9 @@ DOMAIN-SUFFIX,feirar.com,DIRECT
 DOMAIN-SUFFIX,feiren.com,DIRECT
 DOMAIN-SUFFIX,feisan.net,DIRECT
 DOMAIN-SUFFIX,feishu-3rd-party-services.com,DIRECT
+DOMAIN-SUFFIX,feishu.net,DIRECT
 DOMAIN-SUFFIX,feishucdn.com,DIRECT
+DOMAIN-SUFFIX,feishupkg.com,DIRECT
 DOMAIN-SUFFIX,feisu.com,DIRECT
 DOMAIN-SUFFIX,feitian001.com,DIRECT
 DOMAIN-SUFFIX,feitianwu7.com,DIRECT

@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:18973 Created:04-27 06:34 Publisher:GMOogway
+#!desc=Rules:18974 Created:04-28 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -11021,6 +11021,7 @@ DOMAIN-SUFFIX,muchosucko.com,PROXY
 DOMAIN-SUFFIX,mucinex.com,PROXY
 DOMAIN-SUFFIX,mucinex.net,PROXY
 DOMAIN-SUFFIX,mucinexprofessional.com,PROXY
+DOMAIN-SUFFIX,mudfish.net,PROXY
 DOMAIN-SUFFIX,muji.com,PROXY
 DOMAIN-SUFFIX,muji.net,PROXY
 DOMAIN-SUFFIX,mujikorea.net,PROXY
