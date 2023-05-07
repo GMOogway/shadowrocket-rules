@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19039 Created:05-07 06:34 Publisher:GMOogway
+#!desc=Rules:19044 Created:05-08 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,10xfotolia.com,PROXY
 DOMAIN-SUFFIX,110xnxx.com,PROXY
 DOMAIN-SUFFIX,112263.com,PROXY
 DOMAIN-SUFFIX,114av.xyz,PROXY
+DOMAIN-SUFFIX,11jav.com,PROXY
 DOMAIN-SUFFIX,123-hp.com,PROXY
 DOMAIN-SUFFIX,123hplaserjet.com,PROXY
 DOMAIN-SUFFIX,123rf.com,PROXY
@@ -742,6 +743,7 @@ DOMAIN-SUFFIX,airwatchqa.com,PROXY
 DOMAIN-SUFFIX,airwick.com,PROXY
 DOMAIN-SUFFIX,airwick.net,PROXY
 DOMAIN-SUFFIX,airwickarabia.com,PROXY
+DOMAIN-SUFFIX,aisejushi.com,PROXY
 DOMAIN-SUFFIX,aisex.com,PROXY
 DOMAIN-SUFFIX,aishegw.com,PROXY
 DOMAIN-SUFFIX,aiv-cdn.net,PROXY
@@ -9093,6 +9095,7 @@ DOMAIN-SUFFIX,javakiba.org,PROXY
 DOMAIN-SUFFIX,javbabe.net,PROXY
 DOMAIN-SUFFIX,javbangers.com,PROXY
 DOMAIN-SUFFIX,javbobo.com,PROXY
+DOMAIN-SUFFIX,javbooks.com,PROXY
 DOMAIN-SUFFIX,javbraze.com,PROXY
 DOMAIN-SUFFIX,javbus.com,PROXY
 DOMAIN-SUFFIX,javbus22.com,PROXY
@@ -9202,7 +9205,6 @@ DOMAIN-SUFFIX,javynow.com,PROXY
 DOMAIN-SUFFIX,javzoo.com,PROXY
 DOMAIN-SUFFIX,jayspov.net,PROXY
 DOMAIN-SUFFIX,jbe-platform.com,PROXY
-DOMAIN-SUFFIX,jbk005.com,PROXY
 DOMAIN-SUFFIX,jbtalks.cc,PROXY
 DOMAIN-SUFFIX,jbtalks.com,PROXY
 DOMAIN-SUFFIX,jcb,PROXY
@@ -18935,11 +18937,13 @@ DOMAIN,www-cdn.icloud.com.akadns.net,PROXY
 DOMAIN,zeenews-fonts.s3.amazonaws.com,PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?69bag[0-1][1-9]?\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?783([a-z][a-z]?)?\.tv.*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?7mm0([0-1][0-9]?)?\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?8dgo[1-57-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?91porn[0-9]{3}\.me.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?91p[0-9][0-9]?\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?989[a-z]?\.tv.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?99pp[1-9][0-9]\.com.*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?aisejushi(2|3|5|6)\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?avcc1[0-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?avstar0[1-9]\.(com|me).*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?banyinjia[0-9]?\.com.*$",PROXY
@@ -18957,6 +18961,7 @@ URL-REGEX,"^https?:\/\/(.*\.)?gaogediao\.(com|me|net|org).*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?h5ccav[1-5]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?hkfg[1-7]\.xyz.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?jav777\.(cc|tv|work).*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?jbk0([0-1][0-9]?)?\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?jdyy[1-9]?\.me.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?kimoav([1-9][0-9]?)?\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?ksyp0[1-9]\.com.*$",PROXY
