@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19041 Created:05-15 06:34 Publisher:GMOogway
+#!desc=Rules:19043 Created:05-16 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -12829,6 +12829,7 @@ DOMAIN-SUFFIX,podbean.com,PROXY
 DOMAIN-SUFFIX,podcast.co,PROXY
 DOMAIN-SUFFIX,podictionary.com,PROXY
 DOMAIN-SUFFIX,poe.com,PROXY
+DOMAIN-SUFFIX,poecdn.net,PROXY
 DOMAIN-SUFFIX,pogo.com,PROXY
 DOMAIN-SUFFIX,pogobeta.com,PROXY
 DOMAIN-SUFFIX,pohl,PROXY
@@ -18156,6 +18157,7 @@ DOMAIN-SUFFIX,yiyechat.com,PROXY
 DOMAIN-SUFFIX,yizhihongxing.com,PROXY
 DOMAIN-SUFFIX,yjcontentdelivery.com,PROXY
 DOMAIN-SUFFIX,ymail.com,PROXY
+DOMAIN-SUFFIX,ynoproject.net,PROXY
 DOMAIN-SUFFIX,yo1health.com,PROXY
 DOMAIN-SUFFIX,yobit.net,PROXY
 DOMAIN-SUFFIX,yobt.com,PROXY
