@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19043 Created:05-16 06:34 Publisher:GMOogway
+#!desc=Rules:19045 Created:05-17 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -9862,6 +9862,7 @@ DOMAIN-SUFFIX,linglingfa.com,PROXY
 DOMAIN-SUFFIX,linguee.com,PROXY
 DOMAIN-SUFFIX,lingvodics.com,PROXY
 DOMAIN-SUFFIX,link-o-rama.com,PROXY
+DOMAIN-SUFFIX,link.com,PROXY
 DOMAIN-SUFFIX,link2galleries.com,PROXY
 DOMAIN-SUFFIX,link69.com,PROXY
 DOMAIN-SUFFIX,linkedin.com,PROXY
@@ -15118,6 +15119,7 @@ DOMAIN-SUFFIX,strikingly.com,PROXY
 DOMAIN-SUFFIX,strikinglycdn.com,PROXY
 DOMAIN-SUFFIX,stripcamfun.com,PROXY
 DOMAIN-SUFFIX,stripchat.com,PROXY
+DOMAIN-SUFFIX,stripe-terminal-local-reader.net,PROXY
 DOMAIN-SUFFIX,stripe.com,PROXY
 DOMAIN-SUFFIX,stripe.network,PROXY
 DOMAIN-SUFFIX,stripecdn.com,PROXY
