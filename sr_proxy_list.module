@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19045 Created:05-17 06:34 Publisher:GMOogway
+#!desc=Rules:19047 Created:05-18 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -6795,6 +6795,7 @@ DOMAIN-SUFFIX,game735.com,PROXY
 DOMAIN-SUFFIX,gamebeforethegame.com,PROXY
 DOMAIN-SUFFIX,gamejolt.com,PROXY
 DOMAIN-SUFFIX,gameon-masters.com,PROXY
+DOMAIN-SUFFIX,gamepass.com,PROXY
 DOMAIN-SUFFIX,gamepedia.com,PROXY
 DOMAIN-SUFFIX,gameroom.com,PROXY
 DOMAIN-SUFFIX,gamerotic.com,PROXY
@@ -17590,6 +17591,7 @@ DOMAIN-SUFFIX,xboxlive.com,PROXY
 DOMAIN-SUFFIX,xboxone.co,PROXY
 DOMAIN-SUFFIX,xboxone.com,PROXY
 DOMAIN-SUFFIX,xboxplayanywhere.com,PROXY
+DOMAIN-SUFFIX,xboxservices.com,PROXY
 DOMAIN-SUFFIX,xboxstudios.com,PROXY
 DOMAIN-SUFFIX,xboyvids.com,PROXY
 DOMAIN-SUFFIX,xbrasilporno.com,PROXY
