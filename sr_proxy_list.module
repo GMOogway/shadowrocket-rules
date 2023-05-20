@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19048 Created:05-20 06:34 Publisher:GMOogway
+#!desc=Rules:19051 Created:05-21 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -10363,6 +10363,7 @@ DOMAIN-SUFFIX,md-t.org,PROXY
 DOMAIN-SUFFIX,mdhcdn.com,PROXY
 DOMAIN-SUFFIX,mdialog.com,PROXY
 DOMAIN-SUFFIX,mdlf.xyz,PROXY
+DOMAIN-SUFFIX,mdn.dev,PROXY
 DOMAIN-SUFFIX,mdn.mozit.cloud,PROXY
 DOMAIN-SUFFIX,mdnkids.com,PROXY
 DOMAIN-SUFFIX,mdpi.com,PROXY
@@ -10564,6 +10565,7 @@ DOMAIN-SUFFIX,miitomo.com,PROXY
 DOMAIN-SUFFIX,miiverse.com,PROXY
 DOMAIN-SUFFIX,mike.cz.cc,PROXY
 DOMAIN-SUFFIX,mikesoltys.com,PROXY
+DOMAIN-SUFFIX,mikrotik.com,PROXY
 DOMAIN-SUFFIX,miktex.org,PROXY
 DOMAIN-SUFFIX,mikuexpo.com,PROXY
 DOMAIN-SUFFIX,mil,PROXY
@@ -13868,6 +13870,7 @@ DOMAIN-SUFFIX,rosemarydoll.com,PROXY
 DOMAIN-SUFFIX,rotten.com,PROXY
 DOMAIN-SUFFIX,rou.video,PROXY
 DOMAIN-SUFFIX,roughman.net,PROXY
+DOMAIN-SUFFIX,routerboard.com,PROXY
 DOMAIN-SUFFIX,routledgehandbooks.com,PROXY
 DOMAIN-SUFFIX,royalcams.com,PROXY
 DOMAIN-SUFFIX,royalsocietypublishing.org,PROXY
