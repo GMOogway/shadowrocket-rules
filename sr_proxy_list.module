@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19051 Created:05-25 06:34 Publisher:GMOogway
+#!desc=Rules:19051 Created:05-26 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -10363,6 +10363,7 @@ DOMAIN-SUFFIX,md-t.org,PROXY
 DOMAIN-SUFFIX,mdhcdn.com,PROXY
 DOMAIN-SUFFIX,mdialog.com,PROXY
 DOMAIN-SUFFIX,mdlf.xyz,PROXY
+DOMAIN-SUFFIX,mdn.allizom.net,PROXY
 DOMAIN-SUFFIX,mdn.dev,PROXY
 DOMAIN-SUFFIX,mdn.mozit.cloud,PROXY
 DOMAIN-SUFFIX,mdnkids.com,PROXY
@@ -18654,7 +18655,6 @@ DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
 DOMAIN,img-s-msn-com.akamaized.net,PROXY
 DOMAIN,impala-media-production.s3.amazonaws.com,PROXY
 DOMAIN,imperial.insendi.com,PROXY
-DOMAIN,interactive-examples.mdn.mozilla.net,PROXY
 DOMAIN,lgelectronics.122.2o7.net,PROXY
 DOMAIN,licdn.cn.cdn20.com,PROXY
 DOMAIN,linear-abematv.akamaized.net,PROXY
