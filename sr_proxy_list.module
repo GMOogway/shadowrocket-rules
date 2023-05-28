@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19051 Created:05-28 06:34 Publisher:GMOogway
+#!desc=Rules:19052 Created:05-29 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -8846,6 +8846,7 @@ DOMAIN-SUFFIX,ipfs.runfission.com,PROXY
 DOMAIN-SUFFIX,iphine.com,PROXY
 DOMAIN-SUFFIX,iphone-cd.com,PROXY
 DOMAIN-SUFFIX,iphone-cn.com,PROXY
+DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net,PROXY
 DOMAIN-SUFFIX,iphone-sh.com,PROXY
 DOMAIN-SUFFIX,iphone-vip1.com,PROXY
 DOMAIN-SUFFIX,iphone-vip2.com,PROXY
