@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19176 Created:06-19 06:34 Publisher:GMOogway
+#!desc=Rules:19177 Created:06-20 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -12915,6 +12915,7 @@ DOMAIN-SUFFIX,pokedex3d.com,PROXY
 DOMAIN-SUFFIX,pokemon-moon.com,PROXY
 DOMAIN-SUFFIX,pokemon-sun.com,PROXY
 DOMAIN-SUFFIX,pokemon-sunmoon.com,PROXY
+DOMAIN-SUFFIX,pokemon-unitepgame.com,PROXY
 DOMAIN-SUFFIX,pokemon.com,PROXY
 DOMAIN-SUFFIX,pokemonbank.com,PROXY
 DOMAIN-SUFFIX,pokemonblackwhite.com,PROXY
