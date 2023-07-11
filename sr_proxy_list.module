@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19222 Created:07-11 06:36 Publisher:GMOogway
+#!desc=Rules:19224 Created:07-12 06:36 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -10448,6 +10448,8 @@ DOMAIN-SUFFIX,mdn.allizom.net,PROXY
 DOMAIN-SUFFIX,mdn.dev,PROXY
 DOMAIN-SUFFIX,mdn.mozit.cloud,PROXY
 DOMAIN-SUFFIX,mdnkids.com,PROXY
+DOMAIN-SUFFIX,mdnplay.dev,PROXY
+DOMAIN-SUFFIX,mdnyalp.dev,PROXY
 DOMAIN-SUFFIX,mdpi.com,PROXY
 DOMAIN-SUFFIX,me-gay.com,PROXY
 DOMAIN-SUFFIX,me.com,PROXY
