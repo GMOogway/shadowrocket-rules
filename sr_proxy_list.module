@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19224 Created:07-18 06:34 Publisher:GMOogway
+#!desc=Rules:19225 Created:07-19 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -18477,6 +18477,7 @@ DOMAIN-SUFFIX,yunlaopo.cc,PROXY
 DOMAIN-SUFFIX,yunlaopo.com,PROXY
 DOMAIN-SUFFIX,yunlaopo.net,PROXY
 DOMAIN-SUFFIX,yuntipub.com,PROXY
+DOMAIN-SUFFIX,yusercontent.com,PROXY
 DOMAIN-SUFFIX,yusjb.com,PROXY
 DOMAIN-SUFFIX,yuvutu.com,PROXY
 DOMAIN-SUFFIX,yvesgeleyn.com,PROXY
