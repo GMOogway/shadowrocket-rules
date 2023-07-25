@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19199 Created:07-25 06:34 Publisher:GMOogway
+#!desc=Rules:19211 Created:07-26 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -997,6 +997,7 @@ DOMAIN-SUFFIX,amazon-jp-recruiting.com,PROXY
 DOMAIN-SUFFIX,amazon-lantern.com,PROXY
 DOMAIN-SUFFIX,amazon-launchpad.com,PROXY
 DOMAIN-SUFFIX,amazon.com,PROXY
+DOMAIN-SUFFIX,amazon.dev,PROXY
 DOMAIN-SUFFIX,amazon.jobs,PROXY
 DOMAIN-SUFFIX,amazon.red,PROXY
 DOMAIN-SUFFIX,amazonalexavoxcon.com,PROXY
@@ -1754,6 +1755,7 @@ DOMAIN-SUFFIX,azuredns-prd.info,PROXY
 DOMAIN-SUFFIX,azuredns-prd.org,PROXY
 DOMAIN-SUFFIX,azureedge-test.net,PROXY
 DOMAIN-SUFFIX,azureedge.net,PROXY
+DOMAIN-SUFFIX,azurefd.net,PROXY
 DOMAIN-SUFFIX,azureiotcentral.com,PROXY
 DOMAIN-SUFFIX,azureiotsolutions.com,PROXY
 DOMAIN-SUFFIX,azureiotsuite.com,PROXY
@@ -3554,6 +3556,8 @@ DOMAIN-SUFFIX,cheapshoesvip.com,PROXY
 DOMAIN-SUFFIX,cheapwireless04.com,PROXY
 DOMAIN-SUFFIX,cheapwirelessbeats.com,PROXY
 DOMAIN-SUFFIX,checkgfw.com,PROXY
+DOMAIN-SUFFIX,chegg.com,PROXY
+DOMAIN-SUFFIX,cheggcdn.com,PROXY
 DOMAIN-SUFFIX,chemequations.com,PROXY
 DOMAIN-SUFFIX,chemnetbase.com,PROXY
 DOMAIN-SUFFIX,chengjuanseo.com,PROXY
@@ -3832,6 +3836,7 @@ DOMAIN-SUFFIX,cloudflarestorage.com,PROXY
 DOMAIN-SUFFIX,cloudflarestream.com,PROXY
 DOMAIN-SUFFIX,cloudflaretest.com,PROXY
 DOMAIN-SUFFIX,cloudflarewarp.com,PROXY
+DOMAIN-SUFFIX,cloudfront.com,PROXY
 DOMAIN-SUFFIX,cloudfront.net,PROXY
 DOMAIN-SUFFIX,cloudfunctions.net,PROXY
 DOMAIN-SUFFIX,cloudhealthtech.com,PROXY
@@ -3848,6 +3853,7 @@ DOMAIN-SUFFIX,cloudyzgirl.com,PROXY
 DOMAIN-SUFFIX,cloupia.com,PROXY
 DOMAIN-SUFFIX,cloupia.net,PROXY
 DOMAIN-SUFFIX,club1069.com,PROXY
+DOMAIN-SUFFIX,clubhouse.com,PROXY
 DOMAIN-SUFFIX,clubhouseapi.com,PROXY
 DOMAIN-SUFFIX,clubmed,PROXY
 DOMAIN-SUFFIX,clubseventeen.com,PROXY
@@ -5260,6 +5266,7 @@ DOMAIN-SUFFIX,edgecastcdn.net,PROXY
 DOMAIN-SUFFIX,edgedatg.com,PROXY
 DOMAIN-SUFFIX,edgefonts.net,PROXY
 DOMAIN-SUFFIX,edgemeplease.com,PROXY
+DOMAIN-SUFFIX,edgesuite.net,PROXY
 DOMAIN-SUFFIX,edicypages.com,PROXY
 DOMAIN-SUFFIX,edisebay.com,PROXY
 DOMAIN-SUFFIX,editorx.com,PROXY
@@ -5400,6 +5407,7 @@ DOMAIN-SUFFIX,entrust.net,PROXY
 DOMAIN-SUFFIX,entrustdatacard.com,PROXY
 DOMAIN-SUFFIX,epicbrowser.com,PROXY
 DOMAIN-SUFFIX,epicgames.com,PROXY
+DOMAIN-SUFFIX,epicgames.dev,PROXY
 DOMAIN-SUFFIX,epicreads.com,PROXY
 DOMAIN-SUFFIX,epigeum.com,PROXY
 DOMAIN-SUFFIX,epikporn.com,PROXY
@@ -6338,6 +6346,7 @@ DOMAIN-SUFFIX,food,PROXY
 DOMAIN-SUFFIX,foodnetwork,PROXY
 DOMAIN-SUFFIX,foofle.com,PROXY
 DOMAIN-SUFFIX,fooooo.com,PROXY
+DOMAIN-SUFFIX,footprintdns.com,PROXY
 DOMAIN-SUFFIX,footseen.com,PROXY
 DOMAIN-SUFFIX,footstockings.com,PROXY
 DOMAIN-SUFFIX,forbes.com,PROXY
@@ -7594,7 +7603,6 @@ DOMAIN-SUFFIX,hbg.com,PROXY
 DOMAIN-SUFFIX,hbo,PROXY
 DOMAIN-SUFFIX,hbo.com,PROXY
 DOMAIN-SUFFIX,hbo.com.c.footprint.net,PROXY
-DOMAIN-SUFFIX,hbo.com.edgesuite.net,PROXY
 DOMAIN-SUFFIX,hboasia.com,PROXY
 DOMAIN-SUFFIX,hbogo.com,PROXY
 DOMAIN-SUFFIX,hbogoasia.com,PROXY
@@ -9476,6 +9484,8 @@ DOMAIN-SUFFIX,kagyumonlam.org,PROXY
 DOMAIN-SUFFIX,kagyuoffice.org,PROXY
 DOMAIN-SUFFIX,kairakudoujin.net,PROXY
 DOMAIN-SUFFIX,kakao.com,PROXY
+DOMAIN-SUFFIX,kakaocdn.net,PROXY
+DOMAIN-SUFFIX,kakaocorp.com,PROXY
 DOMAIN-SUFFIX,kaktuz.com,PROXY
 DOMAIN-SUFFIX,kalachakralugano.org,PROXY
 DOMAIN-SUFFIX,kali.org,PROXY
@@ -10389,6 +10399,7 @@ DOMAIN-SUFFIX,matsushimakaede.com,PROXY
 DOMAIN-SUFFIX,mattel,PROXY
 DOMAIN-SUFFIX,matters.news,PROXY
 DOMAIN-SUFFIX,matters.one,PROXY
+DOMAIN-SUFFIX,matters.town,PROXY
 DOMAIN-SUFFIX,mattwilcox.net,PROXY
 DOMAIN-SUFFIX,mature-amateur-sex.com,PROXY
 DOMAIN-SUFFIX,mature-porn-flix.com,PROXY
@@ -13563,6 +13574,7 @@ DOMAIN-SUFFIX,qmov.com,PROXY
 DOMAIN-SUFFIX,qmov.net,PROXY
 DOMAIN-SUFFIX,qmttqg3k.me,PROXY
 DOMAIN-SUFFIX,qombol.com,PROXY
+DOMAIN-SUFFIX,qooqlevideo.com,PROXY
 DOMAIN-SUFFIX,qoos.com,PROXY
 DOMAIN-SUFFIX,qorno.com,PROXY
 DOMAIN-SUFFIX,qpoe.com,PROXY
@@ -13680,6 +13692,7 @@ DOMAIN-SUFFIX,rarbgprx.org,PROXY
 DOMAIN-SUFFIX,rarbgto.org,PROXY
 DOMAIN-SUFFIX,rarbgunblock.com,PROXY
 DOMAIN-SUFFIX,rarbgunblock.org,PROXY
+DOMAIN-SUFFIX,rarbgunblocked.org,PROXY
 DOMAIN-SUFFIX,rarbgway.org,PROXY
 DOMAIN-SUFFIX,raremovie.cc,PROXY
 DOMAIN-SUFFIX,raremovie.net,PROXY
@@ -16315,7 +16328,6 @@ DOMAIN-SUFFIX,twilightsex.com,PROXY
 DOMAIN-SUFFIX,twilog.org,PROXY
 DOMAIN-SUFFIX,twimbow.com,PROXY
 DOMAIN-SUFFIX,twimg.com,PROXY
-DOMAIN-SUFFIX,twimg.edgesuite.net,PROXY
 DOMAIN-SUFFIX,twindexx.com,PROXY
 DOMAIN-SUFFIX,twinkspornos.com,PROXY
 DOMAIN-SUFFIX,twinkybf.com,PROXY
