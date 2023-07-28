@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19211 Created:07-28 06:34 Publisher:GMOogway
+#!desc=Rules:19214 Created:07-29 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -548,6 +548,7 @@ DOMAIN-SUFFIX,addtoany.com,PROXY
 DOMAIN-SUFFIX,addyoutube.com,PROXY
 DOMAIN-SUFFIX,adelaidebbs.com,PROXY
 DOMAIN-SUFFIX,adgoogle.net,PROXY
+DOMAIN-SUFFIX,adguard-dns.com,PROXY
 DOMAIN-SUFFIX,adguard-vpn.com,PROXY
 DOMAIN-SUFFIX,adguard.com,PROXY
 DOMAIN-SUFFIX,adhelpnews.com,PROXY
@@ -1412,6 +1413,7 @@ DOMAIN-SUFFIX,aramco,PROXY
 DOMAIN-SUFFIX,arcadewank.com,PROXY
 DOMAIN-SUFFIX,arcgis.com,PROXY
 DOMAIN-SUFFIX,arcgisonline.com,PROXY
+DOMAIN-SUFFIX,archive-it.org,PROXY
 DOMAIN-SUFFIX,archive.org,PROXY
 DOMAIN-SUFFIX,archive.today,PROXY
 DOMAIN-SUFFIX,archiveofourown.com,PROXY
@@ -12260,6 +12262,7 @@ DOMAIN-SUFFIX,opengw.net,PROXY
 DOMAIN-SUFFIX,openid.net,PROXY
 DOMAIN-SUFFIX,openjsf.org,PROXY
 DOMAIN-SUFFIX,openleaks.org,PROXY
+DOMAIN-SUFFIX,openlibrary.org,PROXY
 DOMAIN-SUFFIX,openmaps.org,PROXY
 DOMAIN-SUFFIX,openmidas.com,PROXY
 DOMAIN-SUFFIX,openresty.org,PROXY
