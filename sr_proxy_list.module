@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19214 Created:07-29 06:34 Publisher:GMOogway
+#!desc=Rules:19218 Created:07-30 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -3820,6 +3820,7 @@ DOMAIN-SUFFIX,cloudconvert.com,PROXY
 DOMAIN-SUFFIX,cloudcraze.com,PROXY
 DOMAIN-SUFFIX,cloudcredibility.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
+DOMAIN-SUFFIX,cloudflare-gateway.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudflare-quic.com,PROXY
 DOMAIN-SUFFIX,cloudflare.com,PROXY
@@ -3830,6 +3831,7 @@ DOMAIN-SUFFIX,cloudflarebolt.com,PROXY
 DOMAIN-SUFFIX,cloudflareclient.com,PROXY
 DOMAIN-SUFFIX,cloudflareinsights.com,PROXY
 DOMAIN-SUFFIX,cloudflareok.com,PROXY
+DOMAIN-SUFFIX,cloudflareportal.com,PROXY
 DOMAIN-SUFFIX,cloudflarepreview.com,PROXY
 DOMAIN-SUFFIX,cloudflareresolve.com,PROXY
 DOMAIN-SUFFIX,cloudflaressl.com,PROXY
@@ -12809,6 +12811,8 @@ DOMAIN-SUFFIX,pieceofplastic.com,PROXY
 DOMAIN-SUFFIX,pifpafarabia.com,PROXY
 DOMAIN-SUFFIX,pigav.com,PROXY
 DOMAIN-SUFFIX,pikabu.monster,PROXY
+DOMAIN-SUFFIX,pikpak.me,PROXY
+DOMAIN-SUFFIX,pikpakdrive.com,PROXY
 DOMAIN-SUFFIX,pillbeatsblackfridaysale.com,PROXY
 DOMAIN-SUFFIX,pin-cong.com,PROXY
 DOMAIN-SUFFIX,pin6.com,PROXY
