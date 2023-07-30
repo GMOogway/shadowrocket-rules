@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19218 Created:07-30 06:34 Publisher:GMOogway
+#!desc=Rules:19221 Created:07-31 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -12188,6 +12188,8 @@ DOMAIN-SUFFIX,onefifteen.net,PROXY
 DOMAIN-SUFFIX,onefifteen.org,PROXY
 DOMAIN-SUFFIX,onejapanese.com,PROXY
 DOMAIN-SUFFIX,onejav.com,PROXY
+DOMAIN-SUFFIX,onekey-asset.com,PROXY
+DOMAIN-SUFFIX,onekeycn.com,PROXY
 DOMAIN-SUFFIX,onenote.com,PROXY
 DOMAIN-SUFFIX,onenote.net,PROXY
 DOMAIN-SUFFIX,onepornlist.com,PROXY
@@ -18835,6 +18837,7 @@ DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com,PROXY
 DOMAIN,nvidia.tt.omtrdc.net,PROXY
 DOMAIN,ocsp.microsoft.com,PROXY
 DOMAIN,officecdn-microsoft-com.akamaized.net,PROXY
+DOMAIN,onekey.zendesk.com,PROXY
 DOMAIN,oneocsp.microsoft.com,PROXY
 DOMAIN,ood.opsource.net,PROXY
 DOMAIN,openaiapi-site.azureedge.net,PROXY
