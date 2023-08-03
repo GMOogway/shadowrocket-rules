@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19221 Created:08-03 06:34 Publisher:GMOogway
+#!desc=Rules:19221 Created:08-04 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -716,7 +716,6 @@ DOMAIN-SUFFIX,ai,PROXY
 DOMAIN-SUFFIX,ai-kan.net,PROXY
 DOMAIN-SUFFIX,ai-wen.net,PROXY
 DOMAIN-SUFFIX,ai.binwang.me,PROXY
-DOMAIN-SUFFIX,ai.com,PROXY
 DOMAIN-SUFFIX,aiaa.org,PROXY
 DOMAIN-SUFFIX,aibaobei.me,PROXY
 DOMAIN-SUFFIX,aig,PROXY
@@ -17126,6 +17125,7 @@ DOMAIN-SUFFIX,vultryhw.com,PROXY
 DOMAIN-SUFFIX,vxnbbrs.xyz,PROXY
 DOMAIN-SUFFIX,vxxsred.xyz,PROXY
 DOMAIN-SUFFIX,vzw.com,PROXY
+DOMAIN-SUFFIX,w-mt.co,PROXY
 DOMAIN-SUFFIX,w.idaiwan.com,PROXY
 DOMAIN-SUFFIX,w.org,PROXY
 DOMAIN-SUFFIX,w.wiki,PROXY
