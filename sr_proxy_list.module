@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19223 Created:08-10 06:34 Publisher:GMOogway
+#!desc=Rules:19218 Created:08-11 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -2428,11 +2428,6 @@ DOMAIN-SUFFIX,bikaios.xyz,PROXY
 DOMAIN-SUFFIX,bili2.cc,PROXY
 DOMAIN-SUFFIX,bili888.com,PROXY
 DOMAIN-SUFFIX,bili999.com,PROXY
-DOMAIN-SUFFIX,bilibiligame.co,PROXY
-DOMAIN-SUFFIX,bilibiligame.net,PROXY
-DOMAIN-SUFFIX,biligame.co,PROXY
-DOMAIN-SUFFIX,biligame.com,PROXY
-DOMAIN-SUFFIX,biligame.net,PROXY
 DOMAIN-SUFFIX,biliintl.com,PROXY
 DOMAIN-SUFFIX,biliplus.com,PROXY
 DOMAIN-SUFFIX,biliworld.com,PROXY
