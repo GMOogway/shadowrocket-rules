@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19220 Created:08-21 06:34 Publisher:GMOogway
+#!desc=Rules:19222 Created:08-22 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -13831,6 +13831,8 @@ DOMAIN-SUFFIX,redditmedia.com,PROXY
 DOMAIN-SUFFIX,redditstatic.com,PROXY
 DOMAIN-SUFFIX,redfaptube.com,PROXY
 DOMAIN-SUFFIX,redgifs.com,PROXY
+DOMAIN-SUFFIX,redhat.com,PROXY
+DOMAIN-SUFFIX,redhat.org,PROXY
 DOMAIN-SUFFIX,redhotlabs.com,PROXY
 DOMAIN-SUFFIX,redislabs.com,PROXY
 DOMAIN-SUFFIX,redken,PROXY
