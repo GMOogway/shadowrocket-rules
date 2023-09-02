@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19225 Created:09-02 06:34 Publisher:GMOogway
+#!desc=Rules:19227 Created:09-03 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -7078,6 +7078,8 @@ DOMAIN-SUFFIX,ghut.org,PROXY
 DOMAIN-SUFFIX,gi,PROXY
 DOMAIN-SUFFIX,giantessbooru.com,PROXY
 DOMAIN-SUFFIX,giantessnight.com,PROXY
+DOMAIN-SUFFIX,giffgaff.com,PROXY
+DOMAIN-SUFFIX,giffgaff.design,PROXY
 DOMAIN-SUFFIX,gifnuki.com,PROXY
 DOMAIN-SUFFIX,gifree.com,PROXY
 DOMAIN-SUFFIX,gigabyte.com,PROXY
