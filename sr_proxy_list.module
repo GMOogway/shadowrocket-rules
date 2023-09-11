@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19227 Created:09-11 06:34 Publisher:GMOogway
+#!desc=Rules:19235 Created:09-12 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -1384,6 +1384,7 @@ DOMAIN-SUFFIX,applw.com,PROXY
 DOMAIN-SUFFIX,appmediagroup.com,PROXY
 DOMAIN-SUFFIX,approvedusedbmw.com,PROXY
 DOMAIN-SUFFIX,apps5.oingo.com,PROXY
+DOMAIN-SUFFIX,appsflayer.com,PROXY
 DOMAIN-SUFFIX,appshopper.com,PROXY
 DOMAIN-SUFFIX,appsocks.net,PROXY
 DOMAIN-SUFFIX,appsonebay.net,PROXY
@@ -2502,6 +2503,7 @@ DOMAIN-SUFFIX,bitcointalk.org,PROXY
 DOMAIN-SUFFIX,bitcoinworld.com,PROXY
 DOMAIN-SUFFIX,bitfinex.com,PROXY
 DOMAIN-SUFFIX,bitflyer.com,PROXY
+DOMAIN-SUFFIX,bitget.com,PROXY
 DOMAIN-SUFFIX,bithumb.com,PROXY
 DOMAIN-SUFFIX,bitly.com,PROXY
 DOMAIN-SUFFIX,bitmex.com,PROXY
@@ -4132,6 +4134,7 @@ DOMAIN-SUFFIX,crucial.com,PROXY
 DOMAIN-SUFFIX,cruel-furies.com,PROXY
 DOMAIN-SUFFIX,crunchyroll.com,PROXY
 DOMAIN-SUFFIX,crustwebsites.net,PROXY
+DOMAIN-SUFFIX,crypto.com,PROXY
 DOMAIN-SUFFIX,cryptocompare.com,PROXY
 DOMAIN-SUFFIX,crystalgunnsworld.com,PROXY
 DOMAIN-SUFFIX,crystalmiss.com,PROXY
@@ -9573,6 +9576,7 @@ DOMAIN-SUFFIX,kidsnikeshoes.com,PROXY
 DOMAIN-SUFFIX,kiehls,PROXY
 DOMAIN-SUFFIX,kik.com,PROXY
 DOMAIN-SUFFIX,kikdirty.com,PROXY
+DOMAIN-SUFFIX,killcovid2021.com,PROXY
 DOMAIN-SUFFIX,killwall.com,PROXY
 DOMAIN-SUFFIX,kilmeadeandfriends.com,PROXY
 DOMAIN-SUFFIX,kimogirl.cc,PROXY
@@ -10554,6 +10558,8 @@ DOMAIN-SUFFIX,metlife,PROXY
 DOMAIN-SUFFIX,metrotoons.com,PROXY
 DOMAIN-SUFFIX,meuhentai.com,PROXY
 DOMAIN-SUFFIX,mewe.com,PROXY
+DOMAIN-SUFFIX,mexc.com,PROXY
+DOMAIN-SUFFIX,mexcsensors.com,PROXY
 DOMAIN-SUFFIX,meyul.com,PROXY
 DOMAIN-SUFFIX,mf,PROXY
 DOMAIN-SUFFIX,mfg-inspector.com,PROXY
@@ -14076,6 +14082,7 @@ DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com,PROXY
 DOMAIN-SUFFIX,sa.hao123.com,PROXY
 DOMAIN-SUFFIX,saarland,PROXY
+DOMAIN-SUFFIX,saasexch.com,PROXY
 DOMAIN-SUFFIX,sabuibo.net,PROXY
 DOMAIN-SUFFIX,sacduc.com,PROXY
 DOMAIN-SUFFIX,sacks.com,PROXY
@@ -17261,6 +17268,7 @@ DOMAIN-SUFFIX,webkitgtk.org,PROXY
 DOMAIN-SUFFIX,weblagu.com,PROXY
 DOMAIN-SUFFIX,webmoneyinfo.com,PROXY
 DOMAIN-SUFFIX,webmproject.org,PROXY
+DOMAIN-SUFFIX,webnovel.com,PROXY
 DOMAIN-SUFFIX,webobjects.com,PROXY
 DOMAIN-SUFFIX,webobjects.net,PROXY
 DOMAIN-SUFFIX,webofknowledge.com,PROXY
