@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19234 Created:09-19 06:34 Publisher:GMOogway
+#!desc=Rules:19243 Created:09-20 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,123-hp.com,PROXY
 DOMAIN-SUFFIX,123hplaserjet.com,PROXY
 DOMAIN-SUFFIX,123rf.com,PROXY
 DOMAIN-SUFFIX,123sex.top,PROXY
+DOMAIN-SUFFIX,126728.net,PROXY
 DOMAIN-SUFFIX,128100.xyz,PROXY
 DOMAIN-SUFFIX,12bet.com,PROXY
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com,PROXY
@@ -383,6 +384,7 @@ DOMAIN-SUFFIX,91porn.com,PROXY
 DOMAIN-SUFFIX,91porn.work,PROXY
 DOMAIN-SUFFIX,91porny.com,PROXY
 DOMAIN-SUFFIX,91qk41rf.com,PROXY
+DOMAIN-SUFFIX,91quanji.com,PROXY
 DOMAIN-SUFFIX,91rb.com,PROXY
 DOMAIN-SUFFIX,91rb.net,PROXY
 DOMAIN-SUFFIX,91se.fun,PROXY
@@ -2254,6 +2256,7 @@ DOMAIN-SUFFIX,beijing2022.art,PROXY
 DOMAIN-SUFFIX,beijingnike.com,PROXY
 DOMAIN-SUFFIX,beijingspring.com,PROXY
 DOMAIN-SUFFIX,beijingzx.org,PROXY
+DOMAIN-SUFFIX,beiyongzhan1.com,PROXY
 DOMAIN-SUFFIX,bejav.net,PROXY
 DOMAIN-SUFFIX,bejeweledstars.com,PROXY
 DOMAIN-SUFFIX,bejewled-stars.com,PROXY
@@ -6118,6 +6121,7 @@ DOMAIN-SUFFIX,fececbook.com,PROXY
 DOMAIN-SUFFIX,fedex,PROXY
 DOMAIN-SUFFIX,fedoraforum.org,PROXY
 DOMAIN-SUFFIX,fedoramagazine.org,PROXY
+DOMAIN-SUFFIX,fedorapeople.org,PROXY
 DOMAIN-SUFFIX,fedoraproject.org,PROXY
 DOMAIN-SUFFIX,feedburner.com,PROXY
 DOMAIN-SUFFIX,feeder.co,PROXY
@@ -6867,6 +6871,7 @@ DOMAIN-SUFFIX,gannett-cdn.com,PROXY
 DOMAIN-SUFFIX,gannett.com,PROXY
 DOMAIN-SUFFIX,gannettdigital.com,PROXY
 DOMAIN-SUFFIX,gao1.cc,PROXY
+DOMAIN-SUFFIX,gaofuwu.cc,PROXY
 DOMAIN-SUFFIX,gaoming.net,PROXY
 DOMAIN-SUFFIX,gaopi.net,PROXY
 DOMAIN-SUFFIX,gaozhisheng.net,PROXY
@@ -7389,6 +7394,7 @@ DOMAIN-SUFFIX,govforce.com,PROXY
 DOMAIN-SUFFIX,gp,PROXY
 DOMAIN-SUFFIX,gpstheseries.com,PROXY
 DOMAIN-SUFFIX,gputechconf.com,PROXY
+DOMAIN-SUFFIX,gqzmnav.cc,PROXY
 DOMAIN-SUFFIX,gr,PROXY
 DOMAIN-SUFFIX,gr-assets.com,PROXY
 DOMAIN-SUFFIX,gr8domain.biz,PROXY
@@ -8338,6 +8344,7 @@ DOMAIN-SUFFIX,huffpostarabi.com,PROXY
 DOMAIN-SUFFIX,huffpostbrasil.com,PROXY
 DOMAIN-SUFFIX,huffpostmaghreb.com,PROXY
 DOMAIN-SUFFIX,hugedildo.com,PROXY
+DOMAIN-SUFFIX,huggingface.co,PROXY
 DOMAIN-SUFFIX,hughes,PROXY
 DOMAIN-SUFFIX,huhaitai.com,PROXY
 DOMAIN-SUFFIX,huhamhire.com,PROXY
@@ -9370,6 +9377,7 @@ DOMAIN-SUFFIX,jmcomic2.moe,PROXY
 DOMAIN-SUFFIX,jmlr.org,PROXY
 DOMAIN-SUFFIX,jmp,PROXY
 DOMAIN-SUFFIX,jmscult.com,PROXY
+DOMAIN-SUFFIX,jmvbt.com,PROXY
 DOMAIN-SUFFIX,jneurosci.org,PROXY
 DOMAIN-SUFFIX,jnj,PROXY
 DOMAIN-SUFFIX,jo,PROXY
@@ -14610,6 +14618,7 @@ DOMAIN-SUFFIX,sheshaft.com,PROXY
 DOMAIN-SUFFIX,shia,PROXY
 DOMAIN-SUFFIX,shianyuanfang.com,PROXY
 DOMAIN-SUFFIX,shiatv.net,PROXY
+DOMAIN-SUFFIX,shibashuwu.net,PROXY
 DOMAIN-SUFFIX,shicheng.org,PROXY
 DOMAIN-SUFFIX,shikorina.net,PROXY
 DOMAIN-SUFFIX,shiksha.com,PROXY
@@ -19151,7 +19160,7 @@ URL-REGEX,"^https?:\/\/(.*\.)?ksyp0[1-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?lianren[1-7]\.cc.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?loibus(100|101|202|505|606)\.top.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?loibus\.(cc|com|link).*$",PROXY
-URL-REGEX,"^https?:\/\/(.*\.)?maa18[1-2][0-9]\.com.*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?maa18[0-2][0-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?mdyy[0-1][0-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?mdyy[0-9][0-9]\.cc.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?mimi[0-9]{3}\.com.*$",PROXY
