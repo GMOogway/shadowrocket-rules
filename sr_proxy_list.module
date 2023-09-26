@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19258 Created:09-26 06:34 Publisher:GMOogway
+#!desc=Rules:19259 Created:09-27 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -11845,6 +11845,7 @@ DOMAIN-SUFFIX,nikey.com,PROXY
 DOMAIN-SUFFIX,nikezoom.com,PROXY
 DOMAIN-SUFFIX,nikkan-gendai.com,PROXY
 DOMAIN-SUFFIX,nikkansports.com,PROXY
+DOMAIN-SUFFIX,nikke-kr.com,PROXY
 DOMAIN-SUFFIX,nikkei.com,PROXY
 DOMAIN-SUFFIX,nikkei4946.com,PROXY
 DOMAIN-SUFFIX,nikon,PROXY
