@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:65340 Created:09-29 06:34 Publisher:GMOogway
+#!desc=Rules:65342 Created:09-30 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-6.com,DIRECT
 DOMAIN-SUFFIX,00.net,DIRECT
@@ -64992,6 +64992,7 @@ DOMAIN,corp.google.com,DIRECT
 DOMAIN,corp.googleapis.com,DIRECT
 DOMAIN,crashlyticsreports-pa.googleapis.com,DIRECT
 DOMAIN,crl-lb.apple.com.akadns.net,DIRECT
+DOMAIN,crl.alphassl.com,DIRECT
 DOMAIN,crl.apple.com,DIRECT
 DOMAIN,crl.pki.goog,DIRECT
 DOMAIN,crl2.alphassl.com,DIRECT
@@ -65037,6 +65038,7 @@ DOMAIN,g2.gstatic.com,DIRECT
 DOMAIN,g3.gstatic.com,DIRECT
 DOMAIN,gcpnode.com,DIRECT
 DOMAIN,geetest.datasink.sensorsdata.cn,DIRECT
+DOMAIN,global.prd.cdn.globalsign.com,DIRECT
 DOMAIN,gog.qtlglb.com,DIRECT
 DOMAIN,gogalaxy.gog-statics.com,DIRECT
 DOMAIN,gonglchuangl.net,DIRECT
