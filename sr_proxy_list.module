@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19264 Created:09-30 06:34 Publisher:GMOogway
+#!desc=Rules:19266 Created:10-01 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -3823,6 +3823,7 @@ DOMAIN-SUFFIX,cloudconvert.com,PROXY
 DOMAIN-SUFFIX,cloudcraze.com,PROXY
 DOMAIN-SUFFIX,cloudcredibility.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
+DOMAIN-SUFFIX,cloudflare-ech.com,PROXY
 DOMAIN-SUFFIX,cloudflare-gateway.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudflare-quic.com,PROXY
@@ -18768,6 +18769,7 @@ DOMAIN,brightcove.imgix.net,PROXY
 DOMAIN,cbsi.live.ott.irdeto.com,PROXY
 DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
 DOMAIN,cbsservice.aws.syncbak.com,PROXY
+DOMAIN,cdn-spotify-experiments.conductrics.com,PROXY
 DOMAIN,cdn.jsdelivr.net,PROXY
 DOMAIN,cdngarenanow-a.akamaihd.net,PROXY
 DOMAIN,chat.openai.com.cdn.cloudflare.net,PROXY
