@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19269 Created:10-04 06:34 Publisher:GMOogway
+#!desc=Rules:19270 Created:10-05 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -12085,6 +12085,7 @@ DOMAIN-SUFFIX,nzchinese.com,PROXY
 DOMAIN-SUFFIX,o365weve-dev.com,PROXY
 DOMAIN-SUFFIX,o365weve-ppe.com,PROXY
 DOMAIN-SUFFIX,o365weve.com,PROXY
+DOMAIN-SUFFIX,oaistatic.com,PROXY
 DOMAIN-SUFFIX,oanda.com,PROXY
 DOMAIN-SUFFIX,oanencore.com,PROXY
 DOMAIN-SUFFIX,oann.com,PROXY
