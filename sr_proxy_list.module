@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19290 Created:10-09 06:34 Publisher:GMOogway
+#!desc=Rules:19291 Created:10-10 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -14770,6 +14770,7 @@ DOMAIN-SUFFIX,sing68.com,PROXY
 DOMAIN-SUFFIX,singfortibet.com,PROXY
 DOMAIN-SUFFIX,singlelogin.app,PROXY
 DOMAIN-SUFFIX,singlelogin.me,PROXY
+DOMAIN-SUFFIX,singlelogin.site,PROXY
 DOMAIN-SUFFIX,singtao.com,PROXY
 DOMAIN-SUFFIX,singtaobooks.com,PROXY
 DOMAIN-SUFFIX,singtaola.com,PROXY
