@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19291 Created:10-11 06:34 Publisher:GMOogway
+#!desc=Rules:19292 Created:10-12 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -11743,6 +11743,7 @@ DOMAIN-SUFFIX,nike-uk.com,PROXY
 DOMAIN-SUFFIX,nike-us.com,PROXY
 DOMAIN-SUFFIX,nike-usa.com,PROXY
 DOMAIN-SUFFIX,nike.com,PROXY
+DOMAIN-SUFFIX,nike.host,PROXY
 DOMAIN-SUFFIX,nike.shop,PROXY
 DOMAIN-SUFFIX,nike.xn--hxt814e,PROXY
 DOMAIN-SUFFIX,nike0594.com,PROXY
