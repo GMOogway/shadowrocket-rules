@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19292 Created:10-12 06:34 Publisher:GMOogway
+#!desc=Rules:19293 Created:10-13 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -7149,6 +7149,7 @@ DOMAIN-SUFFIX,github.dev,PROXY
 DOMAIN-SUFFIX,githubapp.com,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubhackathon.com,PROXY
+DOMAIN-SUFFIX,githubnext.com,PROXY
 DOMAIN-SUFFIX,githubpreview.dev,PROXY
 DOMAIN-SUFFIX,githubstatus.com,PROXY
 DOMAIN-SUFFIX,githubuniverse.com,PROXY
