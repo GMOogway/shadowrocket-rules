@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19311 Created:10-28 06:34 Publisher:GMOogway
+#!desc=Rules:19317 Created:10-29 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -10680,6 +10680,7 @@ DOMAIN-SUFFIX,microsoftsilverlight.net,PROXY
 DOMAIN-SUFFIX,microsoftsilverlight.org,PROXY
 DOMAIN-SUFFIX,microsoftsiteselection.com,PROXY
 DOMAIN-SUFFIX,microsoftsqlserver.com,PROXY
+DOMAIN-SUFFIX,microsoftstart.com,PROXY
 DOMAIN-SUFFIX,microsoftstore.com,PROXY
 DOMAIN-SUFFIX,microsoftstream.com,PROXY
 DOMAIN-SUFFIX,microsoftteams.com,PROXY
@@ -12850,6 +12851,8 @@ DOMAIN-SUFFIX,physiology.org,PROXY
 DOMAIN-SUFFIX,piaget,PROXY
 DOMAIN-SUFFIX,piapro.net,PROXY
 DOMAIN-SUFFIX,picacg2022.com,PROXY
+DOMAIN-SUFFIX,picacgp.com,PROXY
+DOMAIN-SUFFIX,picacgy.com,PROXY
 DOMAIN-SUFFIX,picacn.xyz,PROXY
 DOMAIN-SUFFIX,picacomic.com,PROXY
 DOMAIN-SUFFIX,picacomic.xyz,PROXY
@@ -15211,6 +15214,7 @@ DOMAIN-SUFFIX,starott.com,PROXY
 DOMAIN-SUFFIX,starp2p.com,PROXY
 DOMAIN-SUFFIX,starplus.com,PROXY
 DOMAIN-SUFFIX,starsze.icu,PROXY
+DOMAIN-SUFFIX,start.com,PROXY
 DOMAIN-SUFFIX,startpage.com,PROXY
 DOMAIN-SUFFIX,startpath.com,PROXY
 DOMAIN-SUFFIX,startupjournal.com,PROXY
@@ -16343,6 +16347,7 @@ DOMAIN-SUFFIX,turbogvideos.com,PROXY
 DOMAIN-SUFFIX,turbohide.com,PROXY
 DOMAIN-SUFFIX,turborepo.org,PROXY
 DOMAIN-SUFFIX,turbotwitter.com,PROXY
+DOMAIN-SUFFIX,turkeyblocks.org,PROXY
 DOMAIN-SUFFIX,turkistantimes.com,PROXY
 DOMAIN-SUFFIX,tushy.com,PROXY
 DOMAIN-SUFFIX,tushycash.com,PROXY
@@ -17830,6 +17835,7 @@ DOMAIN-SUFFIX,xcritic.com,PROXY
 DOMAIN-SUFFIX,xcum.com,PROXY
 DOMAIN-SUFFIX,xda-cdn.com,PROXY
 DOMAIN-SUFFIX,xda-developers.com,PROXY
+DOMAIN-SUFFIX,xdaforums.com,PROXY
 DOMAIN-SUFFIX,xdir.vip,PROXY
 DOMAIN-SUFFIX,xdporner.com,PROXY
 DOMAIN-SUFFIX,xdsummit.com,PROXY
