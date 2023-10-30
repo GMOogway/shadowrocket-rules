@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:65036 Created:10-30 06:34 Publisher:GMOogway
+#!desc=Rules:65051 Created:10-31 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-6.com,DIRECT
 DOMAIN-SUFFIX,00.net,DIRECT
@@ -47961,6 +47961,7 @@ DOMAIN-SUFFIX,skyzms.com,DIRECT
 DOMAIN-SUFFIX,sl-360.com,DIRECT
 DOMAIN-SUFFIX,sl.al,DIRECT
 DOMAIN-SUFFIX,sl153.com,DIRECT
+DOMAIN-SUFFIX,sl916.com,DIRECT
 DOMAIN-SUFFIX,sl91d.com,DIRECT
 DOMAIN-SUFFIX,slamtec.com,DIRECT
 DOMAIN-SUFFIX,slanissue.com,DIRECT
@@ -64608,6 +64609,9 @@ DOMAIN,adcdownload.apple.com.akadns.net,DIRECT
 DOMAIN,admob-cn.com,DIRECT
 DOMAIN,adservice.google.com,DIRECT
 DOMAIN,ai.ytimg.com,DIRECT
+DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,DIRECT
+DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net,DIRECT
+DOMAIN,amp-api-edge.apps.apple.com,DIRECT
 DOMAIN,amp-api-search-edge.apps.apple.com,DIRECT
 DOMAIN,amp-api.apps.apple.com,DIRECT
 DOMAIN,aod.itunes.apple.com,DIRECT
@@ -64795,17 +64799,23 @@ DOMAIN,images.apple.com,DIRECT
 DOMAIN,images.apple.com.akadns.net,DIRECT
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN,imasdk.googleapis.com,DIRECT
+DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net,DIRECT
+DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net,DIRECT
+DOMAIN,inappcheck.itunes.apple.com,DIRECT
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net,DIRECT
 DOMAIN,init-p01md.apple.com,DIRECT
 DOMAIN,init-p01st-lb.push-apple.com.akadns.net,DIRECT
 DOMAIN,init-p01st.push.apple.com,DIRECT
 DOMAIN,init-s01st-lb.push-apple.com.akadns.net,DIRECT
 DOMAIN,init-s01st.push.apple.com,DIRECT
+DOMAIN,init.gc-lb.apple.com.akadns.net,DIRECT
+DOMAIN,init.gc.apple.com,DIRECT
 DOMAIN,init.itunes.apple.com,DIRECT
 DOMAIN,iosapps.itunes.apple.com,DIRECT
 DOMAIN,iosapps.itunes.g.aaplimg.com,DIRECT
 DOMAIN,ipcdn.apple.com,DIRECT
 DOMAIN,iphone-ld.apple.com,DIRECT
+DOMAIN,iphone-ld.origin-apple.com.akadns.net,DIRECT
 DOMAIN,is1-ssl.mzstatic.com,DIRECT
 DOMAIN,is1.mzstatic.com,DIRECT
 DOMAIN,is2-ssl.mzstatic.com,DIRECT
@@ -64847,6 +64857,7 @@ DOMAIN,opencourse.pku.edu.cn,DIRECT
 DOMAIN,oscdn.apple.com,DIRECT
 DOMAIN,oscdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
+DOMAIN,osxapps.itunes.g.aaplimg.com,DIRECT
 DOMAIN,p1-juejin.byteimg.com,DIRECT
 DOMAIN,p2-juejin.byteimg.com,DIRECT
 DOMAIN,p3-juejin.byteimg.com,DIRECT
@@ -64942,6 +64953,7 @@ DOMAIN,su.itunes.apple.com,DIRECT
 DOMAIN,support-china.apple-support.akadns.net,DIRECT
 DOMAIN,support.1ucrs.com,DIRECT
 DOMAIN,support.apple.com,DIRECT
+DOMAIN,swallow-apple-com.v.aaplimg.com,DIRECT
 DOMAIN,swallow.apple.com,DIRECT
 DOMAIN,swcatalog-cdn.apple.com.akadns.net,DIRECT
 DOMAIN,swcatalog.apple.com,DIRECT
@@ -64972,6 +64984,9 @@ DOMAIN,valid.apple.com,DIRECT
 DOMAIN,valid.origin-apple.com.akadns.net,DIRECT
 DOMAIN,wear.googleapis.com,DIRECT
 DOMAIN,weather-data.apple.com,DIRECT
+DOMAIN,weather-data.apple.com.akadns.net,DIRECT
+DOMAIN,weather-map.apple.com,DIRECT
+DOMAIN,weather-map2.apple.com,DIRECT
 DOMAIN,wl.dlservice.microsoft.com,DIRECT
 DOMAIN,wscont1.apps.microsoft.com,DIRECT
 DOMAIN,wscont2.apps.microsoft.com,DIRECT
