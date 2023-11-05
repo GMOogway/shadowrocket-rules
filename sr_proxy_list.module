@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19317 Created:11-05 06:34 Publisher:GMOogway
+#!desc=Rules:19339 Created:11-06 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -71,6 +71,9 @@ DOMAIN-SUFFIX,18av.pro,PROXY
 DOMAIN-SUFFIX,18avx.com,PROXY
 DOMAIN-SUFFIX,18board.com,PROXY
 DOMAIN-SUFFIX,18board.info,PROXY
+DOMAIN-SUFFIX,18comic-god.cc,PROXY
+DOMAIN-SUFFIX,18comic-god.club,PROXY
+DOMAIN-SUFFIX,18comic-god.xyz,PROXY
 DOMAIN-SUFFIX,18comic.cc,PROXY
 DOMAIN-SUFFIX,18comic.company,PROXY
 DOMAIN-SUFFIX,18comic.org,PROXY
@@ -555,7 +558,12 @@ DOMAIN-SUFFIX,adelaidebbs.com,PROXY
 DOMAIN-SUFFIX,adgoogle.net,PROXY
 DOMAIN-SUFFIX,adguard-dns.com,PROXY
 DOMAIN-SUFFIX,adguard-vpn.com,PROXY
+DOMAIN-SUFFIX,adguard-vpn.online,PROXY
+DOMAIN-SUFFIX,adguard.app,PROXY
 DOMAIN-SUFFIX,adguard.com,PROXY
+DOMAIN-SUFFIX,adguard.info,PROXY
+DOMAIN-SUFFIX,adguard.org,PROXY
+DOMAIN-SUFFIX,adguardvpn.com,PROXY
 DOMAIN-SUFFIX,adhelpnews.com,PROXY
 DOMAIN-SUFFIX,adidas.com,PROXY
 DOMAIN-SUFFIX,admeld.com,PROXY
@@ -603,6 +611,8 @@ DOMAIN-SUFFIX,adorable-teens.net,PROXY
 DOMAIN-SUFFIX,adorevids.com,PROXY
 DOMAIN-SUFFIX,ads-twitter.com,PROXY
 DOMAIN-SUFFIX,adsense.com,PROXY
+DOMAIN-SUFFIX,adtidy.net,PROXY
+DOMAIN-SUFFIX,adtidy.org,PROXY
 DOMAIN-SUFFIX,adult,PROXY
 DOMAIN-SUFFIX,adult-h.com,PROXY
 DOMAIN-SUFFIX,adult-home-videos.com,PROXY
@@ -8943,6 +8953,7 @@ DOMAIN-SUFFIX,ipfs.anonymize.com,PROXY
 DOMAIN-SUFFIX,ipfs.eth.aragon.network,PROXY
 DOMAIN-SUFFIX,ipfs.fleek.co,PROXY
 DOMAIN-SUFFIX,ipfs.runfission.com,PROXY
+DOMAIN-SUFFIX,ipfs.tech,PROXY
 DOMAIN-SUFFIX,iphine.com,PROXY
 DOMAIN-SUFFIX,iphone-cd.com,PROXY
 DOMAIN-SUFFIX,iphone-cn.com,PROXY
@@ -9394,6 +9405,7 @@ DOMAIN-SUFFIX,jlc,PROXY
 DOMAIN-SUFFIX,jll,PROXY
 DOMAIN-SUFFIX,jm,PROXY
 DOMAIN-SUFFIX,jm98.cc,PROXY
+DOMAIN-SUFFIX,jmcomic.ltd,PROXY
 DOMAIN-SUFFIX,jmcomic.me,PROXY
 DOMAIN-SUFFIX,jmcomic.mobi,PROXY
 DOMAIN-SUFFIX,jmcomic.moe,PROXY
@@ -11112,6 +11124,7 @@ DOMAIN-SUFFIX,moxing.mobi,PROXY
 DOMAIN-SUFFIX,moxing.news,PROXY
 DOMAIN-SUFFIX,moystoys.com,PROXY
 DOMAIN-SUFFIX,mozaic,PROXY
+DOMAIN-SUFFIX,mozgcp.net,PROXY
 DOMAIN-SUFFIX,mozilla.com,PROXY
 DOMAIN-SUFFIX,mozilla.community,PROXY
 DOMAIN-SUFFIX,mozilla.net,PROXY
@@ -18761,6 +18774,7 @@ DOMAIN,3dns-3.adobe.com,PROXY
 DOMAIN,3dns-4.adobe.com,PROXY
 DOMAIN,3dns-5.adobe.com,PROXY
 DOMAIN,3dns.adobe.com,PROXY
+DOMAIN,a.ppy.sh,PROXY
 DOMAIN,abematv.akamaized.net,PROXY
 DOMAIN,activate-sea.adobe.com,PROXY
 DOMAIN,activate-sjc0.adobe.com,PROXY
@@ -18796,6 +18810,7 @@ DOMAIN,appleworldwidedeveloper.sc.omtrdc.net,PROXY
 DOMAIN,as-dash-uk-live.akamaized.net,PROXY
 DOMAIN,as-hls-uk-live.akamaized.net,PROXY
 DOMAIN,asahishimbun.sc.omtrdc.net,PROXY
+DOMAIN,assets.ppy.sh,PROXY
 DOMAIN,audio-ak-spotify-com.akamaized.net,PROXY
 DOMAIN,audio4-ak-spotify-com.akamaized.net,PROXY
 DOMAIN,avatargarenanow-a.akamaihd.net,PROXY
@@ -18817,6 +18832,7 @@ DOMAIN,bnetcmsus-a.akamaihd.net,PROXY
 DOMAIN,bnetproduct-a.akamaihd.net,PROXY
 DOMAIN,bnetshopus.akamaized.net,PROXY
 DOMAIN,brightcove.imgix.net,PROXY
+DOMAIN,c.ppy.sh,PROXY
 DOMAIN,cbsi.live.ott.irdeto.com,PROXY
 DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
 DOMAIN,cbsservice.aws.syncbak.com,PROXY
@@ -18907,6 +18923,7 @@ DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
 DOMAIN,img-s-msn-com.akamaized.net,PROXY
 DOMAIN,impala-media-production.s3.amazonaws.com,PROXY
 DOMAIN,imperial.insendi.com,PROXY
+DOMAIN,lazer.ppy.sh,PROXY
 DOMAIN,lgelectronics.122.2o7.net,PROXY
 DOMAIN,licdn.cn.cdn20.com,PROXY
 DOMAIN,linear-abematv.akamaized.net,PROXY
@@ -18916,6 +18933,7 @@ DOMAIN,live-patreon-marketing.pantheonsite.io,PROXY
 DOMAIN,lm.licenses.adobe.com,PROXY
 DOMAIN,lmlicenses.wip4.adobe.com,PROXY
 DOMAIN,lolstatic-a.akamaihd.net,PROXY
+DOMAIN,m1.ppy.sh,PROXY
 DOMAIN,mdn.mozillademos.org,PROXY
 DOMAIN,media-rockstargames-com.akamaized.net,PROXY
 DOMAIN,medone-education.thieme.com,PROXY
@@ -18929,6 +18947,7 @@ DOMAIN,na1r.services.adobe.com,PROXY
 DOMAIN,nab.demdex.net,PROXY
 DOMAIN,nationalaustraliaban.tt.omtrdc.net,PROXY
 DOMAIN,netflix.com.edgesuite.net,PROXY
+DOMAIN,notify.ppy.sh,PROXY
 DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com,PROXY
 DOMAIN,nvidia.tt.omtrdc.net,PROXY
 DOMAIN,ocsp.microsoft.com,PROXY
@@ -18941,6 +18960,7 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
 DOMAIN,openaicomproductionae4b.blob.core.windows.net,PROXY
 DOMAIN,opgg-static.akamaized.net,PROXY
 DOMAIN,origin-a.akamaihd.net,PROXY
+DOMAIN,osu.ppy.sh,PROXY
 DOMAIN,p-events-delivery.akamaized.net,PROXY
 DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
 DOMAIN,paper-attachments.s3.amazonaws.com,PROXY
@@ -19039,7 +19059,9 @@ DOMAIN,scholar.google.si,PROXY
 DOMAIN,scholar.google.sk,PROXY
 DOMAIN,scholar.googleusercontent.com,PROXY
 DOMAIN,scholar.l.google.com,PROXY
+DOMAIN,sentry.ppy.sh,PROXY
 DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net,PROXY
+DOMAIN,spectator.ppy.sh,PROXY
 DOMAIN,spotify.com.edgesuite.net,PROXY
 DOMAIN,spotify.map.fastly.net,PROXY
 DOMAIN,spotify.map.fastlylb.net,PROXY
