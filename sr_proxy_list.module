@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19339 Created:11-11 06:34 Publisher:GMOogway
+#!desc=Rules:19344 Created:11-12 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -3429,6 +3429,7 @@ DOMAIN-SUFFIX,cdkworkshop.com,PROXY
 DOMAIN-SUFFIX,cdmatech.com,PROXY
 DOMAIN-SUFFIX,cdn-apple.com,PROXY
 DOMAIN-SUFFIX,cdn-images.mailchimp.com,PROXY
+DOMAIN-SUFFIX,cdn-telegram.org,PROXY
 DOMAIN-SUFFIX,cdn-terapeak.com,PROXY
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com,PROXY
 DOMAIN-SUFFIX,cdn.printfriendly.com,PROXY
@@ -6199,6 +6200,7 @@ DOMAIN-SUFFIX,fffdm.com,PROXY
 DOMAIN-SUFFIX,fffucked.com,PROXY
 DOMAIN-SUFFIX,fflick.com,PROXY
 DOMAIN-SUFFIX,fflnk.net,PROXY
+DOMAIN-SUFFIX,fflogs.com,PROXY
 DOMAIN-SUFFIX,ffmpeg.org,PROXY
 DOMAIN-SUFFIX,ffotolia.com,PROXY
 DOMAIN-SUFFIX,ffprofile.com,PROXY
@@ -14076,6 +14078,7 @@ DOMAIN-SUFFIX,routerboard.com,PROXY
 DOMAIN-SUFFIX,routledgehandbooks.com,PROXY
 DOMAIN-SUFFIX,royalcams.com,PROXY
 DOMAIN-SUFFIX,royalsocietypublishing.org,PROXY
+DOMAIN-SUFFIX,rpglogs.com,PROXY
 DOMAIN-SUFFIX,rplay.live,PROXY
 DOMAIN-SUFFIX,rpmfusion.org,PROXY
 DOMAIN-SUFFIX,rprimelab.com,PROXY
@@ -16011,6 +16014,7 @@ DOMAIN-SUFFIX,tig-ol-bitties.live,PROXY
 DOMAIN-SUFFIX,tigervpn.com,PROXY
 DOMAIN-SUFFIX,tik-tokapi.com,PROXY
 DOMAIN-SUFFIX,tiktok.com,PROXY
+DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn.com,PROXY
 DOMAIN-SUFFIX,tiktokd.net,PROXY
 DOMAIN-SUFFIX,tiktokd.org,PROXY
@@ -16290,6 +16294,7 @@ DOMAIN-SUFFIX,tt1069.com,PROXY
 DOMAIN-SUFFIX,tteshop.com,PROXY
 DOMAIN-SUFFIX,tttan.com,PROXY
 DOMAIN-SUFFIX,ttvnw.net,PROXY
+DOMAIN-SUFFIX,ttwstatic.com,PROXY
 DOMAIN-SUFFIX,tu8964.com,PROXY
 DOMAIN-SUFFIX,tubaholic.com,PROXY
 DOMAIN-SUFFIX,tube-pornomovs.com,PROXY
