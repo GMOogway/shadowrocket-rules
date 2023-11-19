@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19345 Created:11-19 06:34 Publisher:GMOogway
+#!desc=Rules:19348 Created:11-20 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -3843,6 +3843,7 @@ DOMAIN-SUFFIX,cloudcraze.com,PROXY
 DOMAIN-SUFFIX,cloudcredibility.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ech.com,PROXY
+DOMAIN-SUFFIX,cloudflare-esni.com,PROXY
 DOMAIN-SUFFIX,cloudflare-gateway.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudflare-quic.com,PROXY
@@ -9042,6 +9043,7 @@ DOMAIN-SUFFIX,is,PROXY
 DOMAIN-SUFFIX,is-a-hunter.com,PROXY
 DOMAIN-SUFFIX,isaacmao.com,PROXY
 DOMAIN-SUFFIX,isasecret.com,PROXY
+DOMAIN-SUFFIX,isbgpsafeyet.com,PROXY
 DOMAIN-SUFFIX,isca-speech.org,PROXY
 DOMAIN-SUFFIX,ischool.com,PROXY
 DOMAIN-SUFFIX,iselect,PROXY
@@ -11385,6 +11387,7 @@ DOMAIN-SUFFIX,mymom.info,PROXY
 DOMAIN-SUFFIX,mymusclevideo.com,PROXY
 DOMAIN-SUFFIX,mynetav.net,PROXY
 DOMAIN-SUFFIX,mynetav.org,PROXY
+DOMAIN-SUFFIX,mynetname.net,PROXY
 DOMAIN-SUFFIX,mynike.com,PROXY
 DOMAIN-SUFFIX,mynumber.org,PROXY
 DOMAIN-SUFFIX,myoctocat.com,PROXY
