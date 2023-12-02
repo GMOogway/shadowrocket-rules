@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19337 Created:12-02 06:34 Publisher:GMOogway
+#!desc=Rules:19351 Created:12-03 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -1824,6 +1824,7 @@ DOMAIN-SUFFIX,backdoorlesbians.com,PROXY
 DOMAIN-SUFFIX,backroomcastingcouch.com,PROXY
 DOMAIN-SUFFIX,backtotiananmen.com,PROXY
 DOMAIN-SUFFIX,bacon.com,PROXY
+DOMAIN-SUFFIX,bad.news,PROXY
 DOMAIN-SUFFIX,badaas.com,PROXY
 DOMAIN-SUFFIX,badasianpussy.com,PROXY
 DOMAIN-SUFFIX,badgen.net,PROXY
@@ -3179,8 +3180,11 @@ DOMAIN-SUFFIX,bwh88.net,PROXY
 DOMAIN-SUFFIX,bwh89.net,PROXY
 DOMAIN-SUFFIX,bwin.com,PROXY
 DOMAIN-SUFFIX,by,PROXY
+DOMAIN-SUFFIX,byapis.com,PROXY
 DOMAIN-SUFFIX,bybeatsdre.com,PROXY
 DOMAIN-SUFFIX,bybit.com,PROXY
+DOMAIN-SUFFIX,bycbe.com,PROXY
+DOMAIN-SUFFIX,bycsi.com,PROXY
 DOMAIN-SUFFIX,bydrebeats.com,PROXY
 DOMAIN-SUFFIX,byjav.me,PROXY
 DOMAIN-SUFFIX,byjhd.com,PROXY
@@ -3188,6 +3192,7 @@ DOMAIN-SUFFIX,bypasscensorship.org,PROXY
 DOMAIN-SUFFIX,byrut.org,PROXY
 DOMAIN-SUFFIX,byspotify.com,PROXY
 DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,bytick.com,PROXY
 DOMAIN-SUFFIX,bz,PROXY
 DOMAIN-SUFFIX,bzazi.com,PROXY
 DOMAIN-SUFFIX,bzh,PROXY
@@ -4454,6 +4459,7 @@ DOMAIN-SUFFIX,depositphotos.com,PROXY
 DOMAIN-SUFFIX,deps.dev,PROXY
 DOMAIN-SUFFIX,deps.info,PROXY
 DOMAIN-SUFFIX,derekhsu.homeip.net,PROXY
+DOMAIN-SUFFIX,deribit.com,PROXY
 DOMAIN-SUFFIX,derpibooru.org,PROXY
 DOMAIN-SUFFIX,desertbmw.com,PROXY
 DOMAIN-SUFFIX,designeriphonescases.com,PROXY
@@ -6923,6 +6929,10 @@ DOMAIN-SUFFIX,gastrointestinalexam.com,PROXY
 DOMAIN-SUFFIX,gate-project.com,PROXY
 DOMAIN-SUFFIX,gate.cc,PROXY
 DOMAIN-SUFFIX,gatecoin.com,PROXY
+DOMAIN-SUFFIX,gatedata.org,PROXY
+DOMAIN-SUFFIX,gateimg.com,PROXY
+DOMAIN-SUFFIX,gateio.live,PROXY
+DOMAIN-SUFFIX,gateio.services,PROXY
 DOMAIN-SUFFIX,gateway.dev,PROXY
 DOMAIN-SUFFIX,gateway.pinata.cloud,PROXY
 DOMAIN-SUFFIX,gather.com,PROXY
@@ -8783,6 +8793,7 @@ DOMAIN-SUFFIX,inikesneakers.com,PROXY
 DOMAIN-SUFFIX,init.shop,PROXY
 DOMAIN-SUFFIX,initiativesforchina.org,PROXY
 DOMAIN-SUFFIX,initproducts.com,PROXY
+DOMAIN-SUFFIX,inkbunny.net,PROXY
 DOMAIN-SUFFIX,inkchoice.com,PROXY
 DOMAIN-SUFFIX,inkedravens.com,PROXY
 DOMAIN-SUFFIX,inkui.com,PROXY
@@ -18829,6 +18840,8 @@ DOMAIN,bnetcmsus-a.akamaihd.net,PROXY
 DOMAIN,bnetproduct-a.akamaihd.net,PROXY
 DOMAIN,bnetshopus.akamaized.net,PROXY
 DOMAIN,brightcove.imgix.net,PROXY
+DOMAIN,bybit-exchange.github.io,PROXY
+DOMAIN,bybit.ada.support,PROXY
 DOMAIN,c.ppy.sh,PROXY
 DOMAIN,cbsi.live.ott.irdeto.com,PROXY
 DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
@@ -18854,6 +18867,7 @@ DOMAIN,d33wubrfki0l68.cloudfront.net,PROXY
 DOMAIN,databank.worldbank.org,PROXY
 DOMAIN,database.asahi.com,PROXY
 DOMAIN,default.exp-tas.com,PROXY
+DOMAIN,deribit.cdn.prismic.io,PROXY
 DOMAIN,deutschewelle.h-cdn.com,PROXY
 DOMAIN,developer.microsoft.com,PROXY
 DOMAIN,developers.facebook.com,PROXY
