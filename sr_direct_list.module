@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:64815 Created:12-15 06:35 Publisher:GMOogway
+#!desc=Rules:64828 Created:12-16 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-6.com,DIRECT
 DOMAIN-SUFFIX,00.net,DIRECT
@@ -9119,6 +9119,7 @@ DOMAIN-SUFFIX,b2b168.org,DIRECT
 DOMAIN-SUFFIX,b2b179.com,DIRECT
 DOMAIN-SUFFIX,b2b6.com,DIRECT
 DOMAIN-SUFFIX,b2baa.com,DIRECT
+DOMAIN-SUFFIX,b2bgo.com,DIRECT
 DOMAIN-SUFFIX,b2bic.com,DIRECT
 DOMAIN-SUFFIX,b2bname.com,DIRECT
 DOMAIN-SUFFIX,b2bvip.com,DIRECT
@@ -19858,6 +19859,7 @@ DOMAIN-SUFFIX,edu80.com,DIRECT
 DOMAIN-SUFFIX,edu84.com,DIRECT
 DOMAIN-SUFFIX,edu84.net,DIRECT
 DOMAIN-SUFFIX,edu88.com,DIRECT
+DOMAIN-SUFFIX,eduapaashwc.com,DIRECT
 DOMAIN-SUFFIX,eduartisan.com,DIRECT
 DOMAIN-SUFFIX,educg.net,DIRECT
 DOMAIN-SUFFIX,educhn.net,DIRECT
@@ -25591,6 +25593,7 @@ DOMAIN-SUFFIX,hbzywh.com,DIRECT
 DOMAIN-SUFFIX,hc-byq.com,DIRECT
 DOMAIN-SUFFIX,hc-cdn.com,DIRECT
 DOMAIN-SUFFIX,hc-software.com,DIRECT
+DOMAIN-SUFFIX,hc-sre.com,DIRECT
 DOMAIN-SUFFIX,hc01.com,DIRECT
 DOMAIN-SUFFIX,hc121.com,DIRECT
 DOMAIN-SUFFIX,hc23.com,DIRECT
@@ -27422,6 +27425,7 @@ DOMAIN-SUFFIX,huaweicloud-smn.net,DIRECT
 DOMAIN-SUFFIX,huaweicloud.com,DIRECT
 DOMAIN-SUFFIX,huaweicloudapis.com,DIRECT
 DOMAIN-SUFFIX,huaweicloudlive.com,DIRECT
+DOMAIN-SUFFIX,huaweicloudsite.com,DIRECT
 DOMAIN-SUFFIX,huaweicloudwaf.com,DIRECT
 DOMAIN-SUFFIX,huaweidevice.com,DIRECT
 DOMAIN-SUFFIX,huaweidun.com,DIRECT
@@ -27430,8 +27434,10 @@ DOMAIN-SUFFIX,huaweimall.com,DIRECT
 DOMAIN-SUFFIX,huaweimarine.com,DIRECT
 DOMAIN-SUFFIX,huaweimarketplace.com,DIRECT
 DOMAIN-SUFFIX,huaweimossel.com,DIRECT
+DOMAIN-SUFFIX,huaweioneaccess.com,DIRECT
 DOMAIN-SUFFIX,huaweirom.com,DIRECT
 DOMAIN-SUFFIX,huaweisafedns.com,DIRECT
+DOMAIN-SUFFIX,huaweisre.com,DIRECT
 DOMAIN-SUFFIX,huaweistatic.com,DIRECT
 DOMAIN-SUFFIX,huaweiuniversity.com,DIRECT
 DOMAIN-SUFFIX,huaweiyun.com,DIRECT
@@ -27919,6 +27925,7 @@ DOMAIN-SUFFIX,hwadmin.com,DIRECT
 DOMAIN-SUFFIX,hwangda.com,DIRECT
 DOMAIN-SUFFIX,hwanjia.com,DIRECT
 DOMAIN-SUFFIX,hwasmart.com,DIRECT
+DOMAIN-SUFFIX,hwastro.com,DIRECT
 DOMAIN-SUFFIX,hwbaoan.com,DIRECT
 DOMAIN-SUFFIX,hwccpc.com,DIRECT
 DOMAIN-SUFFIX,hwcdnsre.com,DIRECT
@@ -27929,6 +27936,7 @@ DOMAIN-SUFFIX,hwclouds-dns.net,DIRECT
 DOMAIN-SUFFIX,hwclouds.com,DIRECT
 DOMAIN-SUFFIX,hwclouds.mobi,DIRECT
 DOMAIN-SUFFIX,hwclouds.net,DIRECT
+DOMAIN-SUFFIX,hwcloudsite.com,DIRECT
 DOMAIN-SUFFIX,hwcloudvis.com,DIRECT
 DOMAIN-SUFFIX,hwcpb.com,DIRECT
 DOMAIN-SUFFIX,hwcrazy.com,DIRECT
@@ -39155,6 +39163,7 @@ DOMAIN-SUFFIX,myhuilv.com,DIRECT
 DOMAIN-SUFFIX,myhwcdn.com,DIRECT
 DOMAIN-SUFFIX,myhwcloudlive.com,DIRECT
 DOMAIN-SUFFIX,myhwclouds.com,DIRECT
+DOMAIN-SUFFIX,myhwclouds.net,DIRECT
 DOMAIN-SUFFIX,myie.me,DIRECT
 DOMAIN-SUFFIX,myie9.com,DIRECT
 DOMAIN-SUFFIX,myimis.com,DIRECT
@@ -64400,6 +64409,7 @@ DOMAIN,bg4.v4.a.dl.ws.microsoft.com,DIRECT
 DOMAIN,bj1.api.bing.com,DIRECT
 DOMAIN,bookkeeper.itunes.apple.com,DIRECT
 DOMAIN,borgmon.adz.google.com,DIRECT
+DOMAIN,build.microsoft.com,DIRECT
 DOMAIN,c.admob.com,DIRECT
 DOMAIN,c.android.clients.google.com,DIRECT
 DOMAIN,cache-management-prod.google.com,DIRECT
@@ -64463,6 +64473,7 @@ DOMAIN,cstat.cdn-apple.com,DIRECT
 DOMAIN,ctldl.windowsupdate.com,DIRECT
 DOMAIN,dartsearch-cn.net,DIRECT
 DOMAIN,dd-cdn.origin-apple.com.akadns.net,DIRECT
+DOMAIN,devblogs.microsoft.com,DIRECT
 DOMAIN,developer.microsoft.com,DIRECT
 DOMAIN,dg-meta.video.google.com,DIRECT
 DOMAIN,discussionschinese.apple.com,DIRECT
@@ -64595,6 +64606,7 @@ DOMAIN,itunesconnect.apple.com,DIRECT
 DOMAIN,js-cdn.music.apple.com,DIRECT
 DOMAIN,kc.kexinshe.com,DIRECT
 DOMAIN,km.support.apple.com,DIRECT
+DOMAIN,learn.microsoft.com,DIRECT
 DOMAIN,manga.bilibili.com,DIRECT
 DOMAIN,maps.apple.com,DIRECT
 DOMAIN,menu-static.gog-statics.com,DIRECT
@@ -64746,6 +64758,7 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net,DIRECT
 DOMAIN,upp.itunes.apple.com,DIRECT
 DOMAIN,valid.apple.com,DIRECT
 DOMAIN,valid.origin-apple.com.akadns.net,DIRECT
+DOMAIN,vscode.download.prss.microsoft.com,DIRECT
 DOMAIN,wear.googleapis.com,DIRECT
 DOMAIN,weather-data.apple.com,DIRECT
 DOMAIN,weather-data.apple.com.akadns.net,DIRECT
