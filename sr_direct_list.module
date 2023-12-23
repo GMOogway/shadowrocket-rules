@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:64804 Created:12-23 06:34 Publisher:GMOogway
+#!desc=Rules:64809 Created:12-24 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-6.com,DIRECT
 DOMAIN-SUFFIX,00.net,DIRECT
@@ -64596,6 +64596,7 @@ DOMAIN,moocs.unipus.cn,DIRECT
 DOMAIN,msgr.dlservice.microsoft.com,DIRECT
 DOMAIN,msgruser.dlservice.microsoft.com,DIRECT
 DOMAIN,music.apple.com,DIRECT
+DOMAIN,myvs.download.prss.microsoft.com,DIRECT
 DOMAIN,ocsp-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp.apple.com,DIRECT
 DOMAIN,ocsp.globalsign.com,DIRECT
@@ -64603,6 +64604,7 @@ DOMAIN,ocsp.pki.goog,DIRECT
 DOMAIN,ocsp2-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp2.apple.com,DIRECT
 DOMAIN,ocsp2.globalsign.com,DIRECT
+DOMAIN,oemsoc.download.prss.microsoft.com,DIRECT
 DOMAIN,officecdn.microsoft.com,DIRECT
 DOMAIN,opencourse.pku.edu.cn,DIRECT
 DOMAIN,oscdn.apple.com,DIRECT
@@ -64682,6 +64684,7 @@ DOMAIN,sf-api-token-service.itunes.apple.com,DIRECT
 DOMAIN,silverlight.dlservice.microsoft.com,DIRECT
 DOMAIN,slupdate.dlservice.microsoft.com,DIRECT
 DOMAIN,smp-device-content.apple.com,DIRECT
+DOMAIN,software.download.prss.microsoft.com,DIRECT
 DOMAIN,sp.itunes.apple.com,DIRECT
 DOMAIN,ss.bjmu.edu.cn,DIRECT
 DOMAIN,ssl-google-analytics.l.google.com,DIRECT
@@ -64705,6 +64708,7 @@ DOMAIN,su.itunes.apple.com,DIRECT
 DOMAIN,support-china.apple-support.akadns.net,DIRECT
 DOMAIN,support.1ucrs.com,DIRECT
 DOMAIN,support.apple.com,DIRECT
+DOMAIN,surface.downloads.prss.microsoft.com,DIRECT
 DOMAIN,swallow-apple-com.v.aaplimg.com,DIRECT
 DOMAIN,swallow.apple.com,DIRECT
 DOMAIN,swcatalog-cdn.apple.com.akadns.net,DIRECT
@@ -64735,6 +64739,7 @@ DOMAIN,upp.itunes.apple.com,DIRECT
 DOMAIN,valid.apple.com,DIRECT
 DOMAIN,valid.origin-apple.com.akadns.net,DIRECT
 DOMAIN,vscode.download.prss.microsoft.com,DIRECT
+DOMAIN,vz.download.prss.microsoft.com,DIRECT
 DOMAIN,wear.googleapis.com,DIRECT
 DOMAIN,weather-data.apple.com,DIRECT
 DOMAIN,weather-data.apple.com.akadns.net,DIRECT
