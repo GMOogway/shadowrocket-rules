@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19408 Created:12-29 06:34 Publisher:GMOogway
+#!desc=Rules:19407 Created:12-30 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -7462,7 +7462,6 @@ DOMAIN-SUFFIX,graph.org,PROXY
 DOMAIN-SUFFIX,graphql.org,PROXY
 DOMAIN-SUFFIX,gravatar.com,PROXY
 DOMAIN-SUFFIX,gravitytank.com,PROXY
-DOMAIN-SUFFIX,greasespot.net,PROXY
 DOMAIN-SUFFIX,great-firewall.com,PROXY
 DOMAIN-SUFFIX,great-roc.org,PROXY
 DOMAIN-SUFFIX,greatergothammini.com,PROXY
@@ -12168,6 +12167,7 @@ DOMAIN-SUFFIX,observechina.net,PROXY
 DOMAIN-SUFFIX,obsrvbl.com,PROXY
 DOMAIN-SUFFIX,obutsumania.com,PROXY
 DOMAIN-SUFFIX,obutu.com,PROXY
+DOMAIN-SUFFIX,obyte.org,PROXY
 DOMAIN-SUFFIX,ocaspro.com,PROXY
 DOMAIN-SUFFIX,ocbmwdealers.com,PROXY
 DOMAIN-SUFFIX,occupytiananmen.com,PROXY
@@ -17625,7 +17625,6 @@ DOMAIN-SUFFIX,wnacg.link,PROXY
 DOMAIN-SUFFIX,wnacg.org,PROXY
 DOMAIN-SUFFIX,wnoaissulli1.com,PROXY
 DOMAIN-SUFFIX,woeser.com,PROXY
-DOMAIN-SUFFIX,woesermiddle-way.net,PROXY
 DOMAIN-SUFFIX,woflthenewsstation.com,PROXY
 DOMAIN-SUFFIX,wogx.com,PROXY
 DOMAIN-SUFFIX,wokar.org,PROXY
