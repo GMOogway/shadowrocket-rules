@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:64670 Created:01-04 06:34 Publisher:GMOogway
+#!desc=Rules:64670 Created:01-05 06:35 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-6.com,DIRECT
 DOMAIN-SUFFIX,00.net,DIRECT
@@ -12570,6 +12570,7 @@ DOMAIN-SUFFIX,cdn-static.farfetch-contents.com,DIRECT
 DOMAIN-SUFFIX,cdn-uc.cc,DIRECT
 DOMAIN-SUFFIX,cdn-v.com,DIRECT
 DOMAIN-SUFFIX,cdn.fun,DIRECT
+DOMAIN-SUFFIX,cdn.jetbrains.com,DIRECT
 DOMAIN-SUFFIX,cdn.razersynapse.com,DIRECT
 DOMAIN-SUFFIX,cdn.samsung.com,DIRECT
 DOMAIN-SUFFIX,cdn.shanghai.nyu.edu,DIRECT
@@ -64322,7 +64323,6 @@ DOMAIN,docs.microsoft.com,DIRECT
 DOMAIN,doubleclick-cn.net,DIRECT
 DOMAIN,doubleclick.net,DIRECT
 DOMAIN,download.developer.apple.com,DIRECT
-DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,download.microsoft.com,DIRECT
 DOMAIN,download.mlcc.google.com,DIRECT
 DOMAIN,download.qatp1.net,DIRECT
