@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19364 Created:01-23 06:34 Publisher:GMOogway
+#!desc=Rules:19402 Created:01-24 06:35 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -447,6 +447,7 @@ DOMAIN-SUFFIX,9to5toys.com,PROXY
 DOMAIN-SUFFIX,9xav.cc,PROXY
 DOMAIN-SUFFIX,9xlove.xyz,PROXY
 DOMAIN-SUFFIX,9zipai.net,PROXY
+DOMAIN-SUFFIX,a-msedge.net,PROXY
 DOMAIN-SUFFIX,a-normal-day.com,PROXY
 DOMAIN-SUFFIX,a-teenz.com,PROXY
 DOMAIN-SUFFIX,a0pple.net,PROXY
@@ -951,7 +952,6 @@ DOMAIN-SUFFIX,alphabet.com,PROXY
 DOMAIN-SUFFIX,alphabet.info,PROXY
 DOMAIN-SUFFIX,alphabetfinance.net,PROXY
 DOMAIN-SUFFIX,alphaporno.com,PROXY
-DOMAIN-SUFFIX,alphassl.com,PROXY
 DOMAIN-SUFFIX,alphera.com,PROXY
 DOMAIN-SUFFIX,alphera.net,PROXY
 DOMAIN-SUFFIX,alpinelinux.org,PROXY
@@ -2523,6 +2523,7 @@ DOMAIN-SUFFIX,binancezh.top,PROXY
 DOMAIN-SUFFIX,bing,PROXY
 DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,bing.net,PROXY
+DOMAIN-SUFFIX,bing123.com,PROXY
 DOMAIN-SUFFIX,bingads.com,PROXY
 DOMAIN-SUFFIX,bingagencyawards.com,PROXY
 DOMAIN-SUFFIX,bingapis.com,PROXY
@@ -3874,6 +3875,7 @@ DOMAIN-SUFFIX,clipsbai.com,PROXY
 DOMAIN-SUFFIX,clipseksi.com,PROXY
 DOMAIN-SUFFIX,clitgames.com,PROXY
 DOMAIN-SUFFIX,cloakpoint.com,PROXY
+DOMAIN-SUFFIX,clock.isc.org,PROXY
 DOMAIN-SUFFIX,clojure.org,PROXY
 DOMAIN-SUFFIX,cloudapp.net,PROXY
 DOMAIN-SUFFIX,cloudappsecurity.com,PROXY
@@ -5303,11 +5305,11 @@ DOMAIN-SUFFIX,ecsm.vs.com,PROXY
 DOMAIN-SUFFIX,ecuatorianas.best,PROXY
 DOMAIN-SUFFIX,edeka,PROXY
 DOMAIN-SUFFIX,edengay.net,PROXY
-DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net,PROXY
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net,PROXY
 DOMAIN-SUFFIX,edgecastcdn.net,PROXY
 DOMAIN-SUFFIX,edgedatg.com,PROXY
 DOMAIN-SUFFIX,edgefonts.net,PROXY
+DOMAIN-SUFFIX,edgekey.net,PROXY
 DOMAIN-SUFFIX,edgemeplease.com,PROXY
 DOMAIN-SUFFIX,edgesuite.net,PROXY
 DOMAIN-SUFFIX,edicypages.com,PROXY
@@ -7187,7 +7189,6 @@ DOMAIN-SUFFIX,globalrescue.net,PROXY
 DOMAIN-SUFFIX,globalriskregulator.com,PROXY
 DOMAIN-SUFFIX,globalsecurity.org,PROXY
 DOMAIN-SUFFIX,globalsign-media.com,PROXY
-DOMAIN-SUFFIX,globalsign.com,PROXY
 DOMAIN-SUFFIX,globalsign.net,PROXY
 DOMAIN-SUFFIX,globalspec.com,PROXY
 DOMAIN-SUFFIX,globaltm.org,PROXY
@@ -7472,7 +7473,6 @@ DOMAIN-SUFFIX,gs-discuss.com,PROXY
 DOMAIN-SUFFIX,gscanada.info,PROXY
 DOMAIN-SUFFIX,gsccdn.com,PROXY
 DOMAIN-SUFFIX,gsearch.media,PROXY
-DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net,PROXY
 DOMAIN-SUFFIX,gstatic-cn.com,PROXY
 DOMAIN-SUFFIX,gstatic.com,PROXY
 DOMAIN-SUFFIX,gsuite.com,PROXY
@@ -10722,6 +10722,7 @@ DOMAIN-SUFFIX,mihua.org,PROXY
 DOMAIN-SUFFIX,mii,PROXY
 DOMAIN-SUFFIX,miitomo.com,PROXY
 DOMAIN-SUFFIX,miiverse.com,PROXY
+DOMAIN-SUFFIX,mikanani.me,PROXY
 DOMAIN-SUFFIX,mike.cz.cc,PROXY
 DOMAIN-SUFFIX,mikesoltys.com,PROXY
 DOMAIN-SUFFIX,mikrotik.com,PROXY
@@ -12028,6 +12029,7 @@ DOMAIN-SUFFIX,ntdtv.com,PROXY
 DOMAIN-SUFFIX,ntdtv.org,PROXY
 DOMAIN-SUFFIX,ntdtvla.com,PROXY
 DOMAIN-SUFFIX,ntdvn.com,PROXY
+DOMAIN-SUFFIX,ntp.ripe.net,PROXY
 DOMAIN-SUFFIX,ntrfun.com,PROXY
 DOMAIN-SUFFIX,ntt,PROXY
 DOMAIN-SUFFIX,ntten-mg.buzz,PROXY
@@ -13073,6 +13075,7 @@ DOMAIN-SUFFIX,polymerhk.com,PROXY
 DOMAIN-SUFFIX,polymerproject.org,PROXY
 DOMAIN-SUFFIX,ponyanimalsex.com,PROXY
 DOMAIN-SUFFIX,poofetish.com,PROXY
+DOMAIN-SUFFIX,pool.ntp.org,PROXY
 DOMAIN-SUFFIX,poolin.com,PROXY
 DOMAIN-SUFFIX,poop-pee.online,PROXY
 DOMAIN-SUFFIX,poopee-puke.com,PROXY
@@ -14150,8 +14153,10 @@ DOMAIN-SUFFIX,s-bluemix.net,PROXY
 DOMAIN-SUFFIX,s-books.com,PROXY
 DOMAIN-SUFFIX,s-cashonmobile.com,PROXY
 DOMAIN-SUFFIX,s-cute.com,PROXY
+DOMAIN-SUFFIX,s-dc-msedge.net,PROXY
 DOMAIN-SUFFIX,s-dragon.org,PROXY
 DOMAIN-SUFFIX,s-microsoft.com,PROXY
+DOMAIN-SUFFIX,s-msedge.net,PROXY
 DOMAIN-SUFFIX,s-msft.com,PROXY
 DOMAIN-SUFFIX,s-msn.com,PROXY
 DOMAIN-SUFFIX,s-nbcnews.com,PROXY
@@ -15192,6 +15197,7 @@ DOMAIN-SUFFIX,sstatic.net,PROXY
 DOMAIN-SUFFIX,sstmlt.net,PROXY
 DOMAIN-SUFFIX,ssx3.com,PROXY
 DOMAIN-SUFFIX,st,PROXY
+DOMAIN-SUFFIX,st.com,PROXY
 DOMAIN-SUFFIX,stackage.org,PROXY
 DOMAIN-SUFFIX,stackapps.com,PROXY
 DOMAIN-SUFFIX,stackauth.com,PROXY
@@ -15321,7 +15327,6 @@ DOMAIN-SUFFIX,stoporganharvesting.org,PROXY
 DOMAIN-SUFFIX,stoptibetcrisis.net,PROXY
 DOMAIN-SUFFIX,storagenewsletter.com,PROXY
 DOMAIN-SUFFIX,store-bridgestonesports.com,PROXY
-DOMAIN-SUFFIX,store.apple.com.edgekey.net,PROXY
 DOMAIN-SUFFIX,storesense.com,PROXY
 DOMAIN-SUFFIX,storiesonline.net,PROXY
 DOMAIN-SUFFIX,storify.com,PROXY
@@ -17705,7 +17710,6 @@ DOMAIN-SUFFIX,www-sms-apple.com,PROXY
 DOMAIN-SUFFIX,www.ajsands.com,PROXY
 DOMAIN-SUFFIX,www.antd.org,PROXY
 DOMAIN-SUFFIX,www.aolnews.com,PROXY
-DOMAIN-SUFFIX,www.apple.com.edgekey.net,PROXY
 DOMAIN-SUFFIX,www.cmoinc.org,PROXY
 DOMAIN-SUFFIX,www.destinationurl.com,PROXY
 DOMAIN-SUFFIX,www.dwheeler.com,PROXY
@@ -19205,6 +19209,8 @@ URL-REGEX,"^https?:\/\/(.*\.)?9cha[0-9]{2}\.cc.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?aipa(111|222|333|444|555|666|777|888|999)\.life.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?aisejushi(2|3|5|6)\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?aiwei[1-9]{2}\.buzz.*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?apiproxy-device-prod-nlb-.+\.amazonaws\.com.*$",PROXY
+URL-REGEX,"^https?:\/\/(.*\.)?apiproxy-website-nlb-prod-.+\.amazonaws\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?aqdk[0-9]{3}\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?avcc1[0-9]\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/(.*\.)?avstar0[1-9]\.(com|me).*$",PROXY
@@ -19343,10 +19349,42 @@ URL-REGEX,"^https?:\/\/.+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?).*$",PRO
 URL-REGEX,"^https?:\/\/.+\.na-toronto\.tencentcos\.(cn|com(\.cn)?).*$",PROXY
 URL-REGEX,"^https?:\/\/.+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?).*$",PROXY
 URL-REGEX,"^https?:\/\/github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com.*$",PROXY
+URL-REGEX,"^https?:\/\/((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?)).nist.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?)).colorado.edu).*$",PROXY
 URL-REGEX,"^https?:\/\/epicgames-download\d\.akamaized\.net.*$",PROXY
 URL-REGEX,"^https?:\/\/ewcdn[0-9]{2}\.nowe\.com.*$",PROXY
 URL-REGEX,"^https?:\/\/hses[1-7]?.akamaized.net.*$",PROXY
+URL-REGEX,"^https?:\/\/ntp[0-7].ntp-servers.net.*$",PROXY
+URL-REGEX,"^https?:\/\/time(.euro)?.apple.com.*$",PROXY
+URL-REGEX,"^https?:\/\/time([1-4])?.google.com.*$",PROXY
+URL-REGEX,"^https?:\/\/time([1-5])?.facebook.com.*$",PROXY
 URL-REGEX,"^https?:\/\/[0-9]+vod-adaptive\.akamaized\.net.*$",PROXY
+DOMAIN-SUFFIX,DOMAIN,lf16-effectcdn.byteeffecttos-g.com,PROXY
+DOMAIN-SUFFIX,DOMAIN,lf16-pkgcdn.pitaya-clientai.com,PROXY
+DOMAIN-SUFFIX,DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,bytedapm.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,bytegecko-i18n.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,bytegecko.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,capcut.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,ibytedtos.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,ibyteimg.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,ipstatp.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,isnssdk.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,muscdn.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,musical.ly,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,sgpstatp.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,snssdk.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tik-tokapi.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tiktok.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tiktokcdn.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tiktokd.net,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tiktokd.org,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tiktokmusic.app,PROXY
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,tiktokv.com,PROXY
+DOMAIN-SUFFIX,DOMAIN-KEYWORD,musical.ly,PROXY
+DOMAIN-SUFFIX,DOMAIN-KEYWORD,tiktok,PROXY
+DOMAIN-SUFFIX,USER-AGENT,TikTok*,PROXY
 IP-CIDR,67.198.55.0/24,PROXY
 IP-CIDR,91.108.4.0/22,PROXY
 IP-CIDR,91.108.8.0/22,PROXY
