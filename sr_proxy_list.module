@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19406 Created:02-08 06:35 Publisher:GMOogway
+#!desc=Rules:19413 Created:02-09 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -812,6 +812,7 @@ DOMAIN-SUFFIX,akademiye.org,PROXY
 DOMAIN-SUFFIX,akadns.com,PROXY
 DOMAIN-SUFFIX,akadns.net,PROXY
 DOMAIN-SUFFIX,akadns6.net,PROXY
+DOMAIN-SUFFIX,akadns88.net,PROXY
 DOMAIN-SUFFIX,akaeai.com,PROXY
 DOMAIN-SUFFIX,akafms.net,PROXY
 DOMAIN-SUFFIX,akagtm.org,PROXY
@@ -832,7 +833,6 @@ DOMAIN-SUFFIX,akamai-sucks.net,PROXY
 DOMAIN-SUFFIX,akamai-thailand.com,PROXY
 DOMAIN-SUFFIX,akamai-thailand.net,PROXY
 DOMAIN-SUFFIX,akamai-trials.com,PROXY
-DOMAIN-SUFFIX,akamai.com,PROXY
 DOMAIN-SUFFIX,akamai.net,PROXY
 DOMAIN-SUFFIX,akamaiedge.net,PROXY
 DOMAIN-SUFFIX,akamaientrypoint.net,PROXY
@@ -1694,6 +1694,7 @@ DOMAIN-SUFFIX,avinin.com,PROXY
 DOMAIN-SUFFIX,avizoon.site,PROXY
 DOMAIN-SUFFIX,avizoone.com,PROXY
 DOMAIN-SUFFIX,avjb.com,PROXY
+DOMAIN-SUFFIX,avjiasu.com,PROXY
 DOMAIN-SUFFIX,avjoy.me,PROXY
 DOMAIN-SUFFIX,avjzy67.xyz,PROXY
 DOMAIN-SUFFIX,avlulu.cc,PROXY
@@ -2511,6 +2512,7 @@ DOMAIN-SUFFIX,binance.net,PROXY
 DOMAIN-SUFFIX,binance.org,PROXY
 DOMAIN-SUFFIX,binance.vision,PROXY
 DOMAIN-SUFFIX,binanceapi.com,PROXY
+DOMAIN-SUFFIX,binancecnt.com,PROXY
 DOMAIN-SUFFIX,binancezh.biz,PROXY
 DOMAIN-SUFFIX,binancezh.cc,PROXY
 DOMAIN-SUFFIX,binancezh.co,PROXY
@@ -5314,6 +5316,7 @@ DOMAIN-SUFFIX,edgecastcdn.net,PROXY
 DOMAIN-SUFFIX,edgedatg.com,PROXY
 DOMAIN-SUFFIX,edgefonts.net,PROXY
 DOMAIN-SUFFIX,edgekey.net,PROXY
+DOMAIN-SUFFIX,edgekey88.net,PROXY
 DOMAIN-SUFFIX,edgemeplease.com,PROXY
 DOMAIN-SUFFIX,edgesuite.net,PROXY
 DOMAIN-SUFFIX,edicypages.com,PROXY
@@ -9264,6 +9267,7 @@ DOMAIN-SUFFIX,javmoo.xyz,PROXY
 DOMAIN-SUFFIX,javmost.com,PROXY
 DOMAIN-SUFFIX,javmost.xyz,PROXY
 DOMAIN-SUFFIX,javmuch.com,PROXY
+DOMAIN-SUFFIX,javmulu.net,PROXY
 DOMAIN-SUFFIX,javnew.net,PROXY
 DOMAIN-SUFFIX,javopen.co,PROXY
 DOMAIN-SUFFIX,javout.co,PROXY
@@ -9832,6 +9836,7 @@ DOMAIN-SUFFIX,latrobe,PROXY
 DOMAIN-SUFFIX,latticedata.com,PROXY
 DOMAIN-SUFFIX,launchpad.net,PROXY
 DOMAIN-SUFFIX,launchpad.wang,PROXY
+DOMAIN-SUFFIX,launchpadcontent.net,PROXY
 DOMAIN-SUFFIX,launchpadlibrarian.com,PROXY
 DOMAIN-SUFFIX,launchpadlibrarian.net,PROXY
 DOMAIN-SUFFIX,launchpadlibrarian.org,PROXY
@@ -16953,6 +16958,7 @@ DOMAIN-SUFFIX,virgin,PROXY
 DOMAIN-SUFFIX,virginpornlinks.com,PROXY
 DOMAIN-SUFFIX,virsto.com,PROXY
 DOMAIN-SUFFIX,virsto.net,PROXY
+DOMAIN-SUFFIX,virtualbox.org,PROXY
 DOMAIN-SUFFIX,virtualearth.net,PROXY
 DOMAIN-SUFFIX,virtualpartyworld.com,PROXY
 DOMAIN-SUFFIX,virtualporn.com,PROXY
@@ -18809,6 +18815,7 @@ DOMAIN,cbsi.live.ott.irdeto.com,PROXY
 DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
 DOMAIN,cbsservice.aws.syncbak.com,PROXY
 DOMAIN,cdn-spotify-experiments.conductrics.com,PROXY
+DOMAIN,cdn.js7k.com,PROXY
 DOMAIN,cdn.jsdelivr.net,PROXY
 DOMAIN,cdngarenanow-a.akamaihd.net,PROXY
 DOMAIN,chat.openai.com.cdn.cloudflare.net,PROXY
