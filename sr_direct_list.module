@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:68453 Created:02-17 06:34 Publisher:GMOogway
+#!desc=Rules:68456 Created:02-18 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,0-6.com,DIRECT
 DOMAIN-SUFFIX,00.net,DIRECT
@@ -15501,8 +15501,11 @@ DOMAIN-SUFFIX,clouddns1.vip,DIRECT
 DOMAIN-SUFFIX,clouddongying.com,DIRECT
 DOMAIN-SUFFIX,clouddream.net,DIRECT
 DOMAIN-SUFFIX,cloudflare-cn.com,DIRECT
+DOMAIN-SUFFIX,cloudflareanycast.net,DIRECT
 DOMAIN-SUFFIX,cloudflarecn.net,DIRECT
+DOMAIN-SUFFIX,cloudflareglobal.net,DIRECT
 DOMAIN-SUFFIX,cloudflareinsights-cn.com,DIRECT
+DOMAIN-SUFFIX,cloudflareperf.com,DIRECT
 DOMAIN-SUFFIX,cloudflareprod.com,DIRECT
 DOMAIN-SUFFIX,cloudflarestaging.com,DIRECT
 DOMAIN-SUFFIX,cloudflarestoragegw.com,DIRECT
