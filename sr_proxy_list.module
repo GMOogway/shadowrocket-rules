@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:19427 Created:02-19 06:34 Publisher:GMOogway
+#!desc=Rules:19429 Created:02-20 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -8428,6 +8428,7 @@ DOMAIN-SUFFIX,hulustream.com,PROXY
 DOMAIN-SUFFIX,huluteam.com,PROXY
 DOMAIN-SUFFIX,hulutv.com,PROXY
 DOMAIN-SUFFIX,huluusa.com,PROXY
+DOMAIN-SUFFIX,humanparty.me,PROXY
 DOMAIN-SUFFIX,humanrightspressawards.org,PROXY
 DOMAIN-SUFFIX,humblebundle.com,PROXY
 DOMAIN-SUFFIX,humoron.com,PROXY
@@ -15743,6 +15744,7 @@ DOMAIN-SUFFIX,tenacy.com,PROXY
 DOMAIN-SUFFIX,tenbyfotolia.com,PROXY
 DOMAIN-SUFFIX,tencent.design,PROXY
 DOMAIN-SUFFIX,tennic,PROXY
+DOMAIN-SUFFIX,tenor.com,PROXY
 DOMAIN-SUFFIX,tensorflow.org,PROXY
 DOMAIN-SUFFIX,tenzinpalmo.com,PROXY
 DOMAIN-SUFFIX,terabox.com,PROXY
