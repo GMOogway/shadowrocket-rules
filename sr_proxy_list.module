@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:24330 Created:02-29 06:34 Publisher:GMOogway
+#!desc=Rules:24328 Created:03-01 06:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -629,7 +629,6 @@ DOMAIN-SUFFIX,accountkit.com,PROXY
 DOMAIN-SUFFIX,accountpaypal.com,PROXY
 DOMAIN-SUFFIX,accountpaypal.net,PROXY
 DOMAIN-SUFFIX,accountpaypal.org,PROXY
-DOMAIN-SUFFIX,accounts.googlers.com,PROXY
 DOMAIN-SUFFIX,accuweather.com,PROXY
 DOMAIN-SUFFIX,accv.es,PROXY
 DOMAIN-SUFFIX,acebooik.com,PROXY
@@ -8679,7 +8678,6 @@ DOMAIN-SUFFIX,gclubs.com,PROXY
 DOMAIN-SUFFIX,gcmasia.com,PROXY
 DOMAIN-SUFFIX,gcolle.net,PROXY
 DOMAIN-SUFFIX,gcpnews.com,PROXY
-DOMAIN-SUFFIX,gcpnode.com,PROXY
 DOMAIN-SUFFIX,gcr.io,PROXY
 DOMAIN-SUFFIX,gcrtires.com,PROXY
 DOMAIN-SUFFIX,gdansk-amazon.com,PROXY
@@ -17418,6 +17416,7 @@ DOMAIN-SUFFIX,reaxys.com,PROXY
 DOMAIN-SUFFIX,rebates.jp,PROXY
 DOMAIN-SUFFIX,rebatesrule.net,PROXY
 DOMAIN-SUFFIX,rebrandly.com,PROXY
+DOMAIN-SUFFIX,recaptcha-cn.net,PROXY
 DOMAIN-SUFFIX,recaptcha.net,PROXY
 DOMAIN-SUFFIX,recelebrity.com,PROXY
 DOMAIN-SUFFIX,reckitt.net,PROXY
@@ -20683,7 +20682,6 @@ DOMAIN-SUFFIX,unwire.hk,PROXY
 DOMAIN-SUFFIX,uo.com,PROXY
 DOMAIN-SUFFIX,uocn.org,PROXY
 DOMAIN-SUFFIX,uoherald.com,PROXY
-DOMAIN-SUFFIX,up.gcp.googlers.com,PROXY
 DOMAIN-SUFFIX,up01.cc,PROXY
 DOMAIN-SUFFIX,update.crashlytics.com,PROXY
 DOMAIN-SUFFIX,updatetube.com,PROXY
