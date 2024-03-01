@@ -1,6 +1,6 @@
 #!name=proxy_list
 #!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:24328 Created:03-01 06:34 Publisher:GMOogway
+#!desc=Rules:24332 Created:03-02 06:35 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,01.org,PROXY
@@ -1539,6 +1539,7 @@ DOMAIN-SUFFIX,apkmirror.com,PROXY
 DOMAIN-SUFFIX,apkmonk.com,PROXY
 DOMAIN-SUFFIX,apkplz.com,PROXY
 DOMAIN-SUFFIX,apkpure.com,PROXY
+DOMAIN-SUFFIX,apkpure.net,PROXY
 DOMAIN-SUFFIX,aple.com,PROXY
 DOMAIN-SUFFIX,aplestore.com,PROXY
 DOMAIN-SUFFIX,aplleipods.com,PROXY
@@ -5217,6 +5218,8 @@ DOMAIN-SUFFIX,convrgencegame.com,PROXY
 DOMAIN-SUFFIX,coobay.com,PROXY
 DOMAIN-SUFFIX,cooer.su,PROXY
 DOMAIN-SUFFIX,cookiechoices.org,PROXY
+DOMAIN-SUFFIX,cookielaw.org,PROXY
+DOMAIN-SUFFIX,cookiepro.com,PROXY
 DOMAIN-SUFFIX,cool-comics.com,PROXY
 DOMAIN-SUFFIX,cool18.com,PROXY
 DOMAIN-SUFFIX,coolaler.com,PROXY
@@ -5279,6 +5282,7 @@ DOMAIN-SUFFIX,coursera.org,PROXY
 DOMAIN-SUFFIX,covid19-rx.org,PROXY
 DOMAIN-SUFFIX,covid19rx.org,PROXY
 DOMAIN-SUFFIX,cowboom.com,PROXY
+DOMAIN-SUFFIX,coze.com,PROXY
 DOMAIN-SUFFIX,cozydrdrebeats.com,PROXY
 DOMAIN-SUFFIX,cp44.net,PROXY
 DOMAIN-SUFFIX,cpan.org,PROXY
@@ -5928,7 +5932,6 @@ DOMAIN-SUFFIX,dishworld.com,PROXY
 DOMAIN-SUFFIX,disney-asia.com,PROXY
 DOMAIN-SUFFIX,disney-discount.com,PROXY
 DOMAIN-SUFFIX,disney-plus.net,PROXY
-DOMAIN-SUFFIX,disney-portal.my.onetrust.com,PROXY
 DOMAIN-SUFFIX,disney-studio.com,PROXY
 DOMAIN-SUFFIX,disney-studio.net,PROXY
 DOMAIN-SUFFIX,disney.asia,PROXY
@@ -15502,6 +15505,7 @@ DOMAIN-SUFFIX,onenote.net,PROXY
 DOMAIN-SUFFIX,onepornlist.com,PROXY
 DOMAIN-SUFFIX,onesiterip.com,PROXY
 DOMAIN-SUFFIX,onestore.ms,PROXY
+DOMAIN-SUFFIX,onetrust.com,PROXY
 DOMAIN-SUFFIX,oneworldmanystories.com,PROXY
 DOMAIN-SUFFIX,onindiansex.com,PROXY
 DOMAIN-SUFFIX,oninstagram.com,PROXY
