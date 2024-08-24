@@ -1,0 +1,13 @@
+#!name=reject_list
+#!homepage=https://github.com/andforce/shadowrocket-rules
+#!desc=reject ad
+[Rule]
+DOMAIN,ad.cyapi.cn,REJECT
+DOMAIN,adx.sogaha.cn,REJECT
+DOMAIN-SUFFIX,e.kuaishou.com,REJECT
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com,REJECT
+DOMAIN-SUFFIX,adashxgc.ut.taobao.com,REJECT
+DOMAIN-SUFFIX,baichuan-sdk.taobao.com,REJECT
+DOMAIN-SUFFIX,bugly.qq.com,REJECT
+DOMAIN-SUFFIX,sdk.e.qq.com,REJECT
+DOMAIN-SUFFIX,log5-lq.qishui.com,REJECT
