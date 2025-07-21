@@ -20,13 +20,14 @@
 ```
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则，数据最全面，自动构建，每日更新。相对于提供完整配置，提供模块纯规则的形式更加灵活，因为基本设置和证书、解密每个人不一样，而且模块形式会使得你的配置非常的简洁，容易编辑修改。欢迎 PR，共同完善。
-- 最后更新时间：2025-07-21 14:27:15
+- 最后更新时间：2025-07-21 15:08:35
 - DIRECT规则数：120329，update +0
 - PROXY 规则数：31383，update +0
 - REJECT规则数：130091，update +0
 
 ## Sponsor
-[![Powered by VmShell](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/refs/heads/master/docs/vmshell.png)](https://vmshell.com/aff.php?aff=2979 "Powered by VmShell - VMSHELL Provide 24/7 Legendary Support, 99.99% uptime guarantee For Server. VmShell INC Since 2021.")
+
+[![Powered by VmShell](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/refs/heads/master/docs/vmshell_1.jpg)](https://vmshell.com/aff.php?aff=2979 "Powered by VmShell - VMSHELL Provide 24/7 Legendary Support, 99.99% uptime guarantee For Server. VmShell INC Since 2021.")
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 ## 开了小火箭以后，某些软件检测到代理拒绝运行怎么办？
