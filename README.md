@@ -28,7 +28,7 @@
 ## Sponsor
 
 [![Powered by VmShell](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/refs/heads/master/docs/vmshell_1.jpg)](https://vmshell.com/aff.php?aff=2979 "Powered by VmShell - VMSHELL Provide 24/7 Legendary Support, 99.99% uptime guarantee For Server. VmShell INC Since 2021.")
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+[Powered by DartNode - Free VPS for Open Source](https://dartnode.com)
 
 ## 开了小火箭以后，某些软件检测到代理拒绝运行怎么办？
 开了小火箭以后（别的VPN软件也一样），一些国内的APP（网上国网、银行APP等）会拒绝运行，解决方法：`设置 -> 代理，把代理类型从 http 改为 none（即tun模式）`。
