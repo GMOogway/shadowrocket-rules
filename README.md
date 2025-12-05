@@ -20,15 +20,15 @@
 ```
 
 小火箭规则，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（`DIRECT`）、代理（`PROXY`）、屏蔽（`REJECT`）规则，数据最全面，自动构建，每日更新。相对于提供完整配置，提供模块纯规则的形式更加灵活，因为基本设置和证书、解密每个人不一样，而且模块形式会使得你的配置非常的简洁，容易编辑修改。欢迎 PR，共同完善。
-- 最后更新时间：2025-12-05 06:40:50
+- 最后更新时间：2025-12-06 06:41:11
 - DIRECT规则数：117037，update +0
-- PROXY 规则数：26510，update +0
-- REJECT规则数：130772，update +236
+- PROXY 规则数：26514，update +4
+- REJECT规则数：131066，update +294
 
 ## Sponsor
 
 [![Powered by VmShell](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/refs/heads/master/docs/vmshell_1.jpg)](https://vmshell.com/aff.php?aff=2979 "Powered by VmShell - VMSHELL Provide 24/7 Legendary Support, 99.99% uptime guarantee For Server. VmShell INC Since 2021.")
-[Powered by DartNode - Free VPS for Open Source](https://dartnode.com)
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 ## 开了小火箭以后，某些软件检测到代理拒绝运行怎么办？
 开了小火箭以后（别的VPN软件也一样），一些国内的APP（网上国网、银行APP等）会拒绝运行，解决方法：`设置 -> 代理，把代理类型从 http 改为 none（即tun模式）`。
