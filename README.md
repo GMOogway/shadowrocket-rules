@@ -65,6 +65,12 @@
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module)
 >每类规则提供了二个链接，一个需要代理才能访问，一个可以直接访问，请根据实际情况选择，只是jsdelivr会延迟12小时，但对于几万条的规则来说，没什么影响。
 
+## 在 Rocket Proxy 中使用
+
+[Rocket Proxy](https://apps.apple.com/app/id6785291194) 是一款免费的代理客户端，可以直接使用本项目的屏蔽（REJECT）规则去广告（iOS / iPadOS / macOS）：
+
+- `Shield -> 广告拦截与规则 -> 规则端点 URL`，填入 `sr_reject_list.module` 的链接即可，规则会自动更新
+
 ## 帮助文档
 
 - [01.shadowrocket_configure.md](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/01.shadowrocket_configure.md)，比较全面的介绍了shadowrocket小火箭的配置文件
