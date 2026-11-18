@@ -57,6 +57,12 @@ ip-cidr:34.224.0.0/12
 
 #openai
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
@@ -64,6 +70,7 @@ DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
@@ -76,12 +83,20 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,openaicom-api
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,45.76.214.191/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR,143.198.200.27/32,no-resolve
+IP-CIDR,159.89.204.203/32,no-resolve
 
 #copilot
 DOMAIN,api.msn.com
@@ -196,3 +211,34 @@ DOMAIN-KEYWORD,anthropic
 #grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+
+#apple intelligence
+DOMAIN-SUFFIX,apple-cloudcompute.com
+DOMAIN-SUFFIX,apple-ai.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,api-siri-prod.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-KEYWORD,siri
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-t.apple-dns.net
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN,guzzoni-apple-com.v.aaplimg.com
+DOMAIN,swallow-apple-com.v.aaplimg.com
+DOMAIN,swallow.apple.com
+DOMAIN,probe.siri.apple.com
+DOMAIN,seed.siri.apple.com
+DOMAIN,seed-swallow.siri.apple.com
+DOMAIN,seed-sequoia.siri.apple.com
